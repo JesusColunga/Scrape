@@ -39,8 +39,13 @@ require("./routes/htmlRoutes")(app);
 
 // Starting the server, syncing our models ------------------------------------/
 //db.sequelize.sync(syncOptions).then(function() {
-mongoose
-   .connect("mongodb://localhost/scraper", { useNewUrlParser: true })
+
+// If deployed, use the deployed database. Otherwise use the local mongoHeadlines database
+var MONGODB_URI = process.env.MONGODB_URI || "mongodb://localhost/scraper";
+
+mongoose.connect(MONGODB_URI)
+//mongoose
+//   .connect("mongodb://localhost/scraper", { useNewUrlParser: true })
    .then(function() {
         app.listen(PORT, function() {
             console.log(
