@@ -1,0 +1,1157 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xml:lang="es" lang="es" xmlns="http://www.w3.org/1999/xhtml"><head><script>
+					(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-NNC39WZ');
+				</script><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /><meta http-equiv="CACHE-CONTROL" content="NO-CACHE" /><meta http-equiv="PRAGMA" content="NO-CACHE" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="robots" content="INDEX,FOLLOW,NOARCHIVE" /><meta name="description" content="REFORMA es un diario de noticias y avisos de ocasi�n de circulaci�n nacional, con un peri�dico impreso y un sitio en l�nea editados por el GRUPO REFORMA en la Ciudad de M�xico." /><meta name="keywords" content="peri�dico, diario, noticias, avisos de ocasi�n, edici�n impresa, M�xico, Nacional, Ciudad de M�xico, cdmx, REFORMA, GRUPO REFORMA, CANCHA" /><meta property="og:image" content="https://www.reforma.com/libre/imgdiseno/logo_redes.png" /><meta property="fb:pages" content="62398583826" /><meta name="cXenseParse:pageclass" content="frontpage" /><meta name="cXenseParse:url" content="https://www.reforma.com/" /><title>reforma - portada</title><link rel="canonical" href="https://www.reforma.com/" /><link rel="alternate" type="application/rss+xml" href="rss/portada.xml" title="reforma - portada" /><link rel="stylesheet" type="text/css" href="https://stats.gruporeforma.com/js/fonts.css" /><link rel="stylesheet" type="text/css" href="https://www.gruporeforma.com/imd/libre/ticker/css/font_dseoGot.css" /><link rel="stylesheet" type="text/css" href="https://www.gruporeforma.com/imd/libre/ticker/css/font_dseoGot_Narrow.css" /><link rel="stylesheet" type="text/css" href="https://www.gruporeforma.com/imd/libre/ticker/css/ticker.css" /><link rel="stylesheet" type="text/css" href="https://img.gruporeforma.com/reforma/css/reset.css" /><link rel="stylesheet" type="text/css" href="https://img.gruporeforma.com/reforma/css/smoothDivScroll.css" /><link rel="stylesheet" type="text/css" href="https://img.gruporeforma.com/reforma/js/scroll/jquery.mCustomScrollbar.css" /><link rel="stylesheet" type="text/css" href="https://img.gruporeforma.com/reforma/js/jquery.bxslider/jquery.bxslider.css" /><link rel="stylesheet" type="text/css" href="https://img.gruporeforma.com/reforma/js/jquery.fancybox/jquery.fancybox.css" /><link rel="stylesheet" type="text/css" href="https://img.gruporeforma.com/reforma/css/grid.css" /><link rel="stylesheet" type="text/css" href="https://img.gruporeforma.com/reforma/css/gridos.css" /><link rel="stylesheet" type="text/css" href="https://img.gruporeforma.com/reforma/css/header.css?ts=20190604" /><link rel="stylesheet" type="text/css" href="https://img.gruporeforma.com/reforma/css/footer.css" /><script type="text/javascript" src="https://stats.gruporeforma.com/AppBannerApple.js"><!----></script><script type="text/javascript" src="https://stats.gruporeforma.com/js/ini.js"><!----></script><script type="text/javascript" src="https://img.gruporeforma.com/js/jquery.min.js"><!----></script><script type="text/javascript" src="https://img.gruporeforma.com/js/jquery-ui.custom.min.js"><!----></script><script type="text/javascript" src="https://stats.gruporeforma.com/jquery.smartbanner.js"><!----></script><script type="text/javascript" src="https://img.gruporeforma.com/js/jQueryRotate.2.2.js"><!----></script><script type="text/javascript" src="https://img.gruporeforma.com/js/jquery.capSlide.js"><!----></script><script type="text/javascript" src="https://img.gruporeforma.com/js/jquery-scrolltofixed-min.js"><!----></script><script type="text/javascript" src="https://img.gruporeforma.com/js/jquery.kinetic.js"><!----></script><script type="text/javascript" src="https://img.gruporeforma.com/js/jquery.smoothdivscroll-1.3-min.js"><!----></script><script type="text/javascript" src="https://img.gruporeforma.com/js/scroll/jquery.mousewheel.min.js"><!----></script><script type="text/javascript" src="https://img.gruporeforma.com/js/scroll/jquery.mCustomScrollbar.js"><!----></script><script type="text/javascript" src="https://img.gruporeforma.com/js/jquery.bxslider/jquery.bxslider.min.js"><!----></script><script type="text/javascript" src="https://img.gruporeforma.com/js/jquery.lazyload.js"><!----></script><script type="text/javascript" src="https://img.gruporeforma.com/reforma/js/jquery.fancybox/jquery.fancybox.js"><!----></script><script type="text/javascript" src="https://img.gruporeforma.com/reforma/js/jquery.fancybox/helpers/jquery.fancybox-media.js"><!----></script><script type="text/javascript" src="https://img.gruporeforma.com/reforma/js/includeshome/jsValidaMovil2.js"><!----></script><script type="text/javascript" src="https://img.gruporeforma.com/reforma/js/jsUsuarioInterno.js"><!----></script><script type="text/javascript" src="libre/js/GRConfig2.js?ts=20171214"><!----></script><script type="text/javascript" src="libre/js/GRFunc2.js?ts=201905311155"><!----></script><script type="text/javascript"><!--
+						var grFunc = new GRFunc();
+					--></script><script type="text/javascript" src="https://img.gruporeforma.com/reforma/js/header.js"><!----></script><script type="text/javascript" src="https://img.gruporeforma.com/reforma/js/jsfunmenu.js?ts=20190530"><!----></script><script type="text/javascript" src="https://img.gruporeforma.com/reforma/js/jsgenmenu.js"><!----></script><script type="text/javascript" src="https://img.gruporeforma.com/reforma/js/footer.js"><!----></script><script type="text/javascript" src="libre/js/grpublicidad.js"><!----></script><script type="text/javascript" src="https://www.gruporeforma.com/imd/libre/ticker/js/ticker.js"><!----></script><script type="text/javascript"><!--
+						BuscaTemaDiaNoche();
+						var esHome = true;
+						var strValorPortada = "home";
+						grFunc.grConfig.IdSubCategoria = 672;
+						var genelabanner = '';
+						var optionsPublicidad = {
+							scopeformato: 'portadah'
+							, categoriadir: 'home'
+							, subcategoriadir: 'Portada'
+							, idelementosubcategoria: '672'
+							, tagsxportada: 'x91,x92,x93,x94,x95,x96,x97,x98,x99,x100,x101,x102,x103,x104,x105,x106,x107,x108,x109,x110,x111,x112,x113,x114,x115,x116,x09,x06,x10,x69'
+							, activarPromos: true
+							, urlHostXML: grFunc.NuestroHost
+							, urlBasePromo: grFunc.NuestroHost
+							, tipoPromo: 'hardnews'
+						};
+						var grAnuncio = new GRAnuncio(optionsPublicidad);
+						grAnuncio.Carga_OAS_RICH();
+					--></script></head><body><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NNC39WZ" height="0" width="0" style="display:none;visibility:hidden"><!----></iframe></noscript><script>
+					dataLayer.push({'articleId':'CMS_19_672'
+					,'articlePublishTime':new Date('2019-07-04 22:35:31').toISOString()
+					,'articleSource':'Grupo Reforma'
+					,'articleType':'news'
+					,'articleUpdateTime':new Date('2019-07-04 22:35:31').toISOString()
+					,'author':'Grupo Reforma'
+					,'categories':'Home'
+					,'characterCount':'NA'
+					,'documentTitle':(document.title||"-").replace(/^\s+|\s+$/g,"").replace(/(^$|^\x2d$)/g,"NULL").replace(/(\x22|\x27)/g,"")
+					,'email':(grFunc.Get_Cookie("euser")||"-").replace(/^\s+|\s+$/g,"").replace(/(^$|^\x2d$)/g,"NULL").replace(/(\x22|\x27)/g,"")
+					,'hierarchy':'Home/Portada'
+					,'mediaType':'texto,foto,video'
+					,'metered':'1|1'
+					,'pageNumber':'1'
+					,'pageType':'home'
+					,'paragraphCount':'NA'
+					,'publicationName':grFunc.IdPlaza==101?'El Norte':grFunc.IdPlaza==102?'Reforma':'Mural'
+					,'premium':'1'
+					,'section':'Home'
+					,'userId':(grFunc.Get_Cookie("fpcuenta")||"-").replace(/^\s+|\s+$/g,"").replace(/(^$|^\x2d$)/g,"NULL").replace(/(\x22|\x27)/g,"")
+					,'wordCount':'NA'
+					,'keywords':(document.getElementsByName('keywords')[0]?document.getElementsByName('keywords')[0].content:"-").replace(/^\s+|\s+$/g,"").replace(/(^$|^\x2d$)/g,"NULL").replace(/(\x22|\x27)/g,"")
+					,'parentSite':grFunc.IdPlaza==101?'elnorte.com':grFunc.IdPlaza==102?'reforma.com':'mural.com'
+					});
+				</script><div id="header" style="margin-bottom: 30px;"><script type="text/javascript"><!--
+							drawHeaderC({urlhost: grFunc.NuestroHost, idplaza: grFunc.IdPlaza, altname: grFunc.NombrePlaza, strcategoria:'', scope:0});
+						--></script></div><div class="banner_bg_pubexpand" id="ad_wallpaper"><script type="text/javascript"><!--
+							grAnuncio.DisplayAds('x09', false);
+						--></script></div><div class="banner_center_pubexpand" id="publicidad_wallpaper_center" style="display:none;"><div class="btn_pubesp_pubexpand" id="btnclosepub"><img src="libre/imgdiseno/publicidad/close.png" border="0" onClick="grFunc.ContraeEspecialExp();" /></div><div class="btn_pubesp_pubexpand" style="display:none" id="btnexpandpub"><img src="libre/imgdiseno/publicidad/expand.png" border="0" onClick="grFunc.ExpandeEspecialExp();" /></div><script type="text/javascript"><!--
+							grAnuncio.DisplayAds('x06', false);
+							genelabanner = document.getElementById('publicidad_wallpaper_center').innerHTML;
+						--></script></div><div id="pubesp4" style="width:960px; margin-left:auto; margin-right:auto;"><script type="text/javascript"><!--
+							grAnuncio.DisplayAds('x69', false);
+						--></script></div><div id="contenido"><div id="divEnvioAlertaWeb" style="margin-bottom: 30px;"> </div><div id="unodostres"><div style='height:530px; width:300px; position:relative; margin-left:0px; margin-top:0px; margin-right:30px;margin-bottom:30px;'><div class="mdl ppal x1 y2"><div class="zoomBtn" style="cursor:pointer;"><a class="divLightbox" onclick="grFunc.Zoom('modal',URLImagenes+'imagenes/960x640/5/507/4506725.jpg',960,640,'Los agentes llegaron hasta los insultos por decisiones tomadas.','FOTO: �scar Mireles')">
+					�
+				</a></div><div class="foto_2v_H"><div class="grdAV">�</div><a class="ligaonclick" href="dividen-liderazgos-a-pfs-rebeldes/ar1715847?v=9"><script type="text/javascript"><!--
+							
+              appFC=URLImagenes+"imagenes/elementorelacionado/9/115/8114750.jpg";
+              document.write('<img border="0" width="375" height="250"  class="lazy" data-original="'+appFC+'"/>');
+              
+						--></script></a></div><h1><a class="ligaonclick" href="dividen-liderazgos-a-pfs-rebeldes/ar1715847?v=9">Dividen liderazgos<br>a PFs rebeldes</a></h1><p><a class="ligaonclick" href="dividen-liderazgos-a-pfs-rebeldes/ar1715847?v=9">Agentes federales que tienen tomado el Centro de Mando de la PF en Iztapalapa jalonean los liderazgos del movimiento al grado de insultarse.</a></p><ul class="ic_text herr"><li><a class="ligaonclick" href="niega-preso-por-plagio-liderar-protesta-de-pfs/ar1715820?v=3" style="margin-right:4px;cursor:pointer;"><img src="libre/imgdiseno/Articulo.png" border="0" /></a></li></ul></div></div><div style='height:250px; width:630px; position:relative; margin-left:330px; margin-top:-560px; margin-right:0px;margin-bottom:30px;'><div class="mdl x2 y1 ppal"><div class="x1" style="float:left;"><h1 style="font: 400 35px/38px 'Oswald Regular','Arial',serif;color: #fff; padding-top:30px"><a class="ligaonclick" href="agradece-ruiz-a-dios-por-hallar-a-pena/ar1716013?v=2">Agradece Ruiz <br>a Dios <br>por hallar a Pe�a</a></h1><p><a class="ligaonclick" href="agradece-ruiz-a-dios-por-hallar-a-pena/ar1716013?v=2">Tania Ruiz Eichelmann agradeci� a Dios en Instagram por haber puesto en su camino a su novio, el ex Presidente Enrique Pe�a Nieto.</a></p><ul class="ic_text herr"><li><a class="ligaonclick" href="defiende-tania-ruiz-baile-de-pena-nieto/ar1706630?v=4" style="margin-right:4px;cursor:pointer;"><img src="libre/imgdiseno/Articulo.png" border="0" /></a></li></ul></div><div class="foto2H"><div class="zoomBtn" style="cursor:pointer;"><a class="divLightbox" onclick="grFunc.Zoom('modal',URLImagenes+'imagenes/960x640/5/507/4506982.jpg',960,640,'La modelo dio gracias a Dios por poner a Pe�a Nieto en su vida.','FOTO: tomada del Instagram @taniaruize')">
+								�
+							</a></div><div class="grd2H">�</div><a class="ligaonclick" href="agradece-ruiz-a-dios-por-hallar-a-pena/ar1716013?v=2"><script type="text/javascript"><!--
+									
+                  appFC=URLImagenes+"imagenes/elementorelacionado/9/116/8115386.jpg";
+                  document.write('<img border="0" alt=""  class="lazy" data-original="'+appFC+'"/>');
+                  
+								--></script></a></div></div></div><div style='height:250px; width:300px; position:relative; margin-left:330px; margin-top:0px; margin-right:30px;margin-bottom:30px;'><div class="&#xA;						mdl n x1 y1 ic_container&#xA;					"><div class="zoomBtn" style="cursor:pointer;"><a class="divLightbox" onclick="grFunc.Zoom('modal',URLImagenes+'imagenes/960x640/5/505/4504474.jpg',960,640,'La Ley da nuevas facultades al titular del Ejecutivo.','FOTO: Reuters')">
+					�
+				</a></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="desdena-amlo-otra-cumbre-presidencial/ar1715743?v=6"><script type="text/javascript"><!--
+							
+              appFC=URLImagenes+"imagenes/elementorelacionado/9/109/8108959.jpg";
+              document.write('<img border="0" alt="" class="lazy" data-original="'+appFC+'"/>');
+              
+						--></script></a></div><div class="caption"><div class=" ic_caption"><h1><a class="ligaonclick" href="desdena-amlo-otra-cumbre-presidencial/ar1715743?v=6">Desde�a AMLO <br>otra cumbre presidencial</a></h1><p class="ic_text"><a class="ligaonclick" href="desdena-amlo-otra-cumbre-presidencial/ar1715743?v=6">Al igual que en el G20, L�pez Obrador envi� como su representante al Canciller Ebrard a la Cumbre de la Alianza del Pac�fico en Lima, Per�.</a></p><ul class="ic_text herr"><li><a class="ligaonclick" href="desdena-amlo-otra-cumbre-presidencial/ar1715743?v=6&amp;.html#comart" style="margin-right:4px;cursor:pointer;">47 <img src="libre/imgdiseno/comentario.png" border="0" /></a></li><li><a class="ligaonclick" href="convive-esposa-de-ebrard-con-primeras-damas-en-g20/ar1711581?v=2" style="margin-right:4px;cursor:pointer;"><img src="libre/imgdiseno/Articulo.png" border="0" /></a></li></ul></div></div></div></div><div style='height:250px; width:300px; position:relative; margin-left:660px; margin-top:-280px; margin-right:0px;margin-bottom:30px;'><div class="&#xA;						mdl n x1 y1 ic_container&#xA;					"><div class="zoomBtn" style="cursor:pointer;"><a class="divLightbox" onclick="grFunc.Zoom('modal',URLImagenes+'imagenes/960x640/5/507/4506832.jpg',960,640,'Tres adultos y un menor resultaron lesionados por la ca�da de un anuncio que fue causada por lluvia y viento de esta tarde, en Iztapalapa.','FOTO: Especial')">
+					�
+				</a></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="deja-cuatro-heridos-caida-de-espectacular/ar1715913?v=3"><script type="text/javascript"><!--
+							
+              appFC=URLImagenes+"imagenes/elementorelacionado/9/115/8114999.jpg";
+              document.write('<img border="0" alt="" class="lazy" data-original="'+appFC+'"/>');
+              
+						--></script></a></div><div class="caption"><div class=" ic_caption"><h1><a class="ligaonclick" href="deja-cuatro-heridos-caida-de-espectacular/ar1715913?v=3">Deja cuatro heridos <br>ca�da de espectacular</a></h1><p class="ic_text"><a class="ligaonclick" href="deja-cuatro-heridos-caida-de-espectacular/ar1715913?v=3">Tres adultos y un menor resultaron lesionados por la ca�da de un anuncio que fue causada por lluvia y viento de esta tarde, en Iztapalapa.</a></p><ul class="ic_text herr" /></div></div></div></div><div style='height:250px; width:300px; position:relative; margin-left:0px; margin-top:0px; margin-right:30px;margin-bottom:30px;'><div class="&#xA;						mdl n x1 y1 ic_container&#xA;					"><div class="zoomBtn" style="cursor:pointer;"><a class="divLightbox" onclick="grFunc.Zoom('modal',URLImagenes+'imagenes/960x640/5/507/4506742.jpg',960,640,'Aviones de la Marina formaron parte del espect�culo.','FOTO: Reuters')">
+					�
+				</a></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="despliega-trump-a-ejercito-en-desfile-de-4-de-julio/ar1715856?v=4"><script type="text/javascript"><!--
+							
+              appFC=URLImagenes+"imagenes/elementorelacionado/9/115/8114783.jpg";
+              document.write('<img border="0" alt="" class="lazy" data-original="'+appFC+'"/>');
+              
+						--></script></a></div><div class="caption"><div class=" ic_caption"><h1><a class="ligaonclick" href="despliega-trump-a-ejercito-en-desfile-de-4-de-julio/ar1715856?v=4">Despliega Trump a Ej�rcito<br>en desfile de 4 de julio</a></h1><p class="ic_text"><a class="ligaonclick" href="despliega-trump-a-ejercito-en-desfile-de-4-de-julio/ar1715856?v=4">Por primera vez en su historia, Ej�rcito de EU particip� en el desfile conmemorativo del D�a de la Independencia por instrucci�n de Trump.</a></p><ul class="ic_text herr"><li><a class="ligaonclick" href="celebra-eu-aniversario-de-independencia/ar1715658?v=6" style="margin-right:4px;cursor:pointer;"><img src="libre/imgdiseno/Articulo.png" border="0" /></a></li></ul></div></div></div></div><div style='height:250px; width:300px; position:relative; margin-left:330px; margin-top:-280px; margin-right:30px;margin-bottom:30px;'><div class="&#xA;						mdl n x1 y1 ic_container&#xA;					"><div class="zoomBtn" style="cursor:pointer;"><a class="divLightbox" onclick="grFunc.Zoom('modal',URLImagenes+'imagenes/960x640/5/507/4506848.jpg',960,640,'Una granizada cay� sobre la carretera libre M�xico-Toluca en el Kil�metro 31, a la altura de Colonia Puerto de Las Cruces.','FOTO: Tomada de Twitter')">
+					�
+				</a></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="pega-granizada-en-la-mexico-toluca/ar1715922"><script type="text/javascript"><!--
+							
+              appFC=URLImagenes+"imagenes/elementorelacionado/9/116/8115040.jpg";
+              document.write('<img border="0" alt="" class="lazy" data-original="'+appFC+'"/>');
+              
+						--></script></a></div><div class="caption"><div class=" ic_caption"><h1><a class="ligaonclick" href="pega-granizada-en-la-mexico-toluca/ar1715922">Pega granizada en la M�xico-Toluca</a></h1><p class="ic_text"><a class="ligaonclick" href="pega-granizada-en-la-mexico-toluca/ar1715922">Una granizada cay� sobre carretera libre M�xico-Toluca en el Kil�metro 31, a la altura de Colonia Puerto de Las Cruces; el tr�fico es lento.</a></p><ul class="ic_text herr" /></div></div></div></div><div style='height:250px; width:300px; position:relative; margin-left:660px; margin-top:-280px; margin-right:0px;margin-bottom:30px;'><div class="mdl x1 y1"><script type="text/javascript">
+				grAnuncio.DisplayAds2('x91', true, 'zonaprime', 'orden1', 300, 250);
+			</script></div></div></div><div class="clearfix"><!----></div><div id="zonareelsespecial"><div style='height:250px; width:960px; position:relative; margin-left:0px; margin-top:0px; margin-right:0px;margin-bottom:30px;'><script language="JavaScript"><!--
+				
+        fc882948 = new Array();
+        document.write('<div id="riel882948" class="bgGris x3">');
+			--></script><div class="rielTit"><script language="JavaScript"><!--
+							
+              appHP882948=URLImagenes+"sc/cont/app/header/882948.png?ts=20190704223532";
+              document.write('<img style="vertical-align: middle; height:250px; width:40px;" src="'+ appHP882948 + '"/>');
+              
+						--></script></div><div id="riel_882948" class="riel y1"><div id="div_1882948" class="mdl n x1 y1 mR_10 ic_container" style="float:left;"><div class="btnArticulo"><a class="ligaonclick" href="revira-fch-si-tienen-pruebas-presentenlas/ar1715720?v=9" /></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="revira-fch-si-tienen-pruebas-presentenlas/ar1715720?v=9"><script type="text/javascript"><!--
+													
+                          appFC=URLImagenes+"imagenes/elementorelacionado/9/115/8114272.jpg";
+                          document.write('<img id="0_882948" height="200px" width="300px" border="2"  src=""/>');
+                          
+												
+											
+											//INICIA MODIFICACION 
+											//Se declaran las posiciones iniciales en cada elemento del riel
+											originalCoorddiv_1882948 = {x: 0,y: 0}; finalCoorddiv_1882948 = {x: 0,y: 0};
+											//Se declara el evento donde el usuario 'pone el dedo' en el div del elemento del riel y se detectan las coordenadas
+											$("#div_1882948").bind('touchstart', function(e) {
+												e.preventDefault();
+												originalCoorddiv_1882948.x = (e.originalEvent.changedTouches[0].pageX); 
+												originalCoorddiv_1882948.y = (e.originalEvent.changedTouches[0].pageY); 
+											}).bind('touchend click', function(e) { // se declara el momento donde el usuario deja de presionar la pantalla y se detectan las coordenadas
+												e.preventDefault();
+												finalCoorddiv_1882948.x = (e.originalEvent.changedTouches[0].pageX); 
+												finalCoorddiv_1882948.y = (e.originalEvent.changedTouches[0].pageY); 
+												if (e.type=='touchend' && originalCoorddiv_1882948.x!=finalCoorddiv_1882948.x) //si el usuario realiz un swipe las coordenadas inicial y final sern diferentes por lo que no realiza ninguna accin ms que el propio swipe
+												{
+													return;
+												}
+												else
+												{
+													//al ser las coordenadas inicial y final iguales, se toma como un tap o click por lo que se ejecuta la llamada a la funcion del elemento correspondiente
+													grFunc.AbrirPagina('normal', 'revira-fch-si-tienen-pruebas-presentenlas/ar1715720?v=9');
+												}
+											});
+											//fin de modificacin
+                      fotocrop = new Array();
+                      fotocrop.url = appFC;
+                      fc882948[0]=fotocrop;
+										--></script></a></div><div class="caption"><div class="ic_caption"><p class="p_5"><script type="text/javascript">
+													
+													if (esHome) {
+														document.write('NACIONAL');
+													} else {
+														document.write('CONGRESO');
+													}
+													
+												</script></p><h1><a class="ligaonclick" href="revira-fch-si-tienen-pruebas-presentenlas/ar1715720?v=9">Revira FCH:<br>si tienen pruebas, pres�ntenlas</a></h1><ul class="ic_text herr"><li><a onclick="grFunc.AbrirPagina('fancybox','maltrataron-a-federales-calderon/gr/vi118251?ap=1&amp;md5=4f8e016e05015a711af8541560b00cc4&amp;ta=0dfdbac11765226904c16cb9ad1b2efe'); return false;" style="margin-right:4px;cursor:pointer;"><img src="libre/imgdiseno/galeriamultimedia.png" border="0" /></a></li><li><a class="ligaonclick" href="calderon-tendria-que-ser-mas-mesurado-batres/ar1715686" style="margin-right:4px;cursor:pointer;"><img src="libre/imgdiseno/Articulo.png" border="0" /></a></li></ul></div></div></div><div id="div_2882948" class="mdl n x1 y1 mR_10 ic_container" style="float:left;"><div class="btnArticulo"><a class="ligaonclick" href="lidera-protesta-de-pfs-preso-por-plagio-durazo/ar1715444?v=13" /></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="lidera-protesta-de-pfs-preso-por-plagio-durazo/ar1715444?v=13"><script type="text/javascript"><!--
+													
+                          appFC=URLImagenes+"imagenes/elementorelacionado/9/114/8113501.jpg";
+                          document.write('<img id="1_882948" height="200px" width="300px" border="1"  src=""/>');
+                          
+												
+											
+											//INICIA MODIFICACION 
+											//Se declaran las posiciones iniciales en cada elemento del riel
+											originalCoorddiv_2882948 = {x: 0,y: 0}; finalCoorddiv_2882948 = {x: 0,y: 0};
+											//Se declara el evento donde el usuario 'pone el dedo' en el div del elemento del riel y se detectan las coordenadas
+											$("#div_2882948").bind('touchstart', function(e) {
+												e.preventDefault();
+												originalCoorddiv_2882948.x = (e.originalEvent.changedTouches[0].pageX); 
+												originalCoorddiv_2882948.y = (e.originalEvent.changedTouches[0].pageY); 
+											}).bind('touchend click', function(e) { // se declara el momento donde el usuario deja de presionar la pantalla y se detectan las coordenadas
+												e.preventDefault();
+												finalCoorddiv_2882948.x = (e.originalEvent.changedTouches[0].pageX); 
+												finalCoorddiv_2882948.y = (e.originalEvent.changedTouches[0].pageY); 
+												if (e.type=='touchend' && originalCoorddiv_2882948.x!=finalCoorddiv_2882948.x) //si el usuario realiz un swipe las coordenadas inicial y final sern diferentes por lo que no realiza ninguna accin ms que el propio swipe
+												{
+													return;
+												}
+												else
+												{
+													//al ser las coordenadas inicial y final iguales, se toma como un tap o click por lo que se ejecuta la llamada a la funcion del elemento correspondiente
+													grFunc.AbrirPagina('normal', 'lidera-protesta-de-pfs-preso-por-plagio-durazo/ar1715444?v=13');
+												}
+											});
+											//fin de modificacin
+                      fotocrop = new Array();
+                      fotocrop.url = appFC;
+                      fc882948[1]=fotocrop;
+										--></script></a></div><div class="caption"><div class="ic_caption"><p class="p_5"><script type="text/javascript">
+													
+													if (esHome) {
+														document.write('NACIONAL');
+													} else {
+														document.write('POL�TICA');
+													}
+													
+												</script></p><h1><a class="ligaonclick" href="lidera-protesta-de-pfs-preso-por-plagio-durazo/ar1715444?v=13">Lidera protesta de PFs<br>preso por plagio.- Durazo</a></h1><ul class="ic_text herr"><li><a class="ligaonclick" href="prende-a-medias-paro-de-pfs/ar1715427?v=3" style="margin-right:4px;cursor:pointer;"><img src="libre/imgdiseno/Articulo.png" border="0" /></a></li></ul></div></div></div><div id="div_3882948" class="mdl n x1 y1 mR_10 ic_container" style="float:left;"><div class="btnArticulo"><a class="ligaonclick" href="niega-preso-por-plagio-liderar-protesta-de-pfs/ar1715820?v=3" /></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="niega-preso-por-plagio-liderar-protesta-de-pfs/ar1715820?v=3"><script type="text/javascript"><!--
+													
+                          appFC=URLImagenes+"imagenes/elementorelacionado/9/115/8114472.jpg";
+                          document.write('<img id="2_882948" height="200px" width="300px" border="2"  src=""/>');
+                          
+												
+											
+											//INICIA MODIFICACION 
+											//Se declaran las posiciones iniciales en cada elemento del riel
+											originalCoorddiv_3882948 = {x: 0,y: 0}; finalCoorddiv_3882948 = {x: 0,y: 0};
+											//Se declara el evento donde el usuario 'pone el dedo' en el div del elemento del riel y se detectan las coordenadas
+											$("#div_3882948").bind('touchstart', function(e) {
+												e.preventDefault();
+												originalCoorddiv_3882948.x = (e.originalEvent.changedTouches[0].pageX); 
+												originalCoorddiv_3882948.y = (e.originalEvent.changedTouches[0].pageY); 
+											}).bind('touchend click', function(e) { // se declara el momento donde el usuario deja de presionar la pantalla y se detectan las coordenadas
+												e.preventDefault();
+												finalCoorddiv_3882948.x = (e.originalEvent.changedTouches[0].pageX); 
+												finalCoorddiv_3882948.y = (e.originalEvent.changedTouches[0].pageY); 
+												if (e.type=='touchend' && originalCoorddiv_3882948.x!=finalCoorddiv_3882948.x) //si el usuario realiz un swipe las coordenadas inicial y final sern diferentes por lo que no realiza ninguna accin ms que el propio swipe
+												{
+													return;
+												}
+												else
+												{
+													//al ser las coordenadas inicial y final iguales, se toma como un tap o click por lo que se ejecuta la llamada a la funcion del elemento correspondiente
+													grFunc.AbrirPagina('normal', 'niega-preso-por-plagio-liderar-protesta-de-pfs/ar1715820?v=3');
+												}
+											});
+											//fin de modificacin
+                      fotocrop = new Array();
+                      fotocrop.url = appFC;
+                      fc882948[2]=fotocrop;
+										--></script></a></div><div class="caption"><div class="ic_caption"><p class="p_5"><script type="text/javascript">
+													
+													if (esHome) {
+														document.write('NACIONAL');
+													} else {
+														document.write('SEGURIDAD');
+													}
+													
+												</script></p><h1><a class="ligaonclick" href="niega-preso-por-plagio-liderar-protesta-de-pfs/ar1715820?v=3">...Y abogado niega<br>pertenecer al movimiento</a></h1><ul class="ic_text herr"><li><a class="ligaonclick" href="lidera-protesta-de-pfs-preso-por-plagio-durazo/ar1715444?v=13" style="margin-right:4px;cursor:pointer;"><img src="libre/imgdiseno/Articulo.png" border="0" /></a></li></ul></div></div></div><div id="div_4882948" class="mdl n x1 y1 mR_10 ic_container" style="float:left;"><div class="btnArticulo"><a class="ligaonclick" href="ordena-amlo-investigar-corrupcion-en-pf/ar1715341?v=5" /></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="ordena-amlo-investigar-corrupcion-en-pf/ar1715341?v=5"><script type="text/javascript"><!--
+													
+                          appFC=URLImagenes+"imagenes/elementorelacionado/9/114/8113123.jpg";
+                          document.write('<img id="3_882948" height="200px" width="300px" border="1"  src=""/>');
+                          
+												
+											
+											//INICIA MODIFICACION 
+											//Se declaran las posiciones iniciales en cada elemento del riel
+											originalCoorddiv_4882948 = {x: 0,y: 0}; finalCoorddiv_4882948 = {x: 0,y: 0};
+											//Se declara el evento donde el usuario 'pone el dedo' en el div del elemento del riel y se detectan las coordenadas
+											$("#div_4882948").bind('touchstart', function(e) {
+												e.preventDefault();
+												originalCoorddiv_4882948.x = (e.originalEvent.changedTouches[0].pageX); 
+												originalCoorddiv_4882948.y = (e.originalEvent.changedTouches[0].pageY); 
+											}).bind('touchend click', function(e) { // se declara el momento donde el usuario deja de presionar la pantalla y se detectan las coordenadas
+												e.preventDefault();
+												finalCoorddiv_4882948.x = (e.originalEvent.changedTouches[0].pageX); 
+												finalCoorddiv_4882948.y = (e.originalEvent.changedTouches[0].pageY); 
+												if (e.type=='touchend' && originalCoorddiv_4882948.x!=finalCoorddiv_4882948.x) //si el usuario realiz un swipe las coordenadas inicial y final sern diferentes por lo que no realiza ninguna accin ms que el propio swipe
+												{
+													return;
+												}
+												else
+												{
+													//al ser las coordenadas inicial y final iguales, se toma como un tap o click por lo que se ejecuta la llamada a la funcion del elemento correspondiente
+													grFunc.AbrirPagina('normal', 'ordena-amlo-investigar-corrupcion-en-pf/ar1715341?v=5');
+												}
+											});
+											//fin de modificacin
+                      fotocrop = new Array();
+                      fotocrop.url = appFC;
+                      fc882948[3]=fotocrop;
+										--></script></a></div><div class="caption"><div class="ic_caption"><p class="p_5"><script type="text/javascript">
+													
+													if (esHome) {
+														document.write('NACIONAL');
+													} else {
+														document.write('SEGURIDAD');
+													}
+													
+												</script></p><h1><a class="ligaonclick" href="ordena-amlo-investigar-corrupcion-en-pf/ar1715341?v=5">Ordena AMLO indagar corrupci�n<br>en corporaci�n</a></h1><ul class="ic_text herr"><li><a class="ligaonclick" href="reprochan-ciudadanos-bloqueos-en-vias/ar1715088?v=2" style="margin-right:4px;cursor:pointer;"><img src="libre/imgdiseno/Articulo.png" border="0" /></a></li></ul></div></div></div><div id="div_5882948" class="mdl n x1 y1 mR_10 ic_container" style="float:left;"><div class="btnArticulo"><a class="ligaonclick" href="rechazan-pfs-mano-negra-reclaman-a-amlo/ar1715382?v=8" /></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="rechazan-pfs-mano-negra-reclaman-a-amlo/ar1715382?v=8"><script type="text/javascript"><!--
+													
+                          appFC=URLImagenes+"imagenes/elementorelacionado/9/114/8113209.jpg";
+                          document.write('<img id="4_882948" height="200px" width="300px" border="1"  src=""/>');
+                          
+												
+											
+											//INICIA MODIFICACION 
+											//Se declaran las posiciones iniciales en cada elemento del riel
+											originalCoorddiv_5882948 = {x: 0,y: 0}; finalCoorddiv_5882948 = {x: 0,y: 0};
+											//Se declara el evento donde el usuario 'pone el dedo' en el div del elemento del riel y se detectan las coordenadas
+											$("#div_5882948").bind('touchstart', function(e) {
+												e.preventDefault();
+												originalCoorddiv_5882948.x = (e.originalEvent.changedTouches[0].pageX); 
+												originalCoorddiv_5882948.y = (e.originalEvent.changedTouches[0].pageY); 
+											}).bind('touchend click', function(e) { // se declara el momento donde el usuario deja de presionar la pantalla y se detectan las coordenadas
+												e.preventDefault();
+												finalCoorddiv_5882948.x = (e.originalEvent.changedTouches[0].pageX); 
+												finalCoorddiv_5882948.y = (e.originalEvent.changedTouches[0].pageY); 
+												if (e.type=='touchend' && originalCoorddiv_5882948.x!=finalCoorddiv_5882948.x) //si el usuario realiz un swipe las coordenadas inicial y final sern diferentes por lo que no realiza ninguna accin ms que el propio swipe
+												{
+													return;
+												}
+												else
+												{
+													//al ser las coordenadas inicial y final iguales, se toma como un tap o click por lo que se ejecuta la llamada a la funcion del elemento correspondiente
+													grFunc.AbrirPagina('normal', 'rechazan-pfs-mano-negra-reclaman-a-amlo/ar1715382?v=8');
+												}
+											});
+											//fin de modificacin
+                      fotocrop = new Array();
+                      fotocrop.url = appFC;
+                      fc882948[4]=fotocrop;
+										--></script></a></div><div class="caption"><div class="ic_caption"><p class="p_5"><script type="text/javascript">
+													
+													if (esHome) {
+														document.write('NACIONAL');
+													} else {
+														document.write('SEGURIDAD');
+													}
+													
+												</script></p><h1><a class="ligaonclick" href="rechazan-pfs-mano-negra-reclaman-a-amlo/ar1715382?v=8">Rechazan PFs 'mano negra';<br>reclaman a Presidente</a></h1><ul class="ic_text herr"><li><a class="ligaonclick" href="ordena-amlo-investigar-corrupcion-en-pf/ar1715341?v=5" style="margin-right:4px;cursor:pointer;"><img src="libre/imgdiseno/Articulo.png" border="0" /></a></li></ul></div></div></div><div id="div_6882948" class="mdl n x1 y1 mR_10 ic_container" style="float:left;"><div class="btnArticulo"><a class="ligaonclick" href="pfs-no-arriesgan-gobernabilidad-segob/ar1715548?v=5" /></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="pfs-no-arriesgan-gobernabilidad-segob/ar1715548?v=5"><script type="text/javascript"><!--
+													
+                          appFC=URLImagenes+"imagenes/elementorelacionado/9/114/8113772.jpg";
+                          document.write('<img id="5_882948" height="200px" width="300px" border="2"  src=""/>');
+                          
+												
+											
+											//INICIA MODIFICACION 
+											//Se declaran las posiciones iniciales en cada elemento del riel
+											originalCoorddiv_6882948 = {x: 0,y: 0}; finalCoorddiv_6882948 = {x: 0,y: 0};
+											//Se declara el evento donde el usuario 'pone el dedo' en el div del elemento del riel y se detectan las coordenadas
+											$("#div_6882948").bind('touchstart', function(e) {
+												e.preventDefault();
+												originalCoorddiv_6882948.x = (e.originalEvent.changedTouches[0].pageX); 
+												originalCoorddiv_6882948.y = (e.originalEvent.changedTouches[0].pageY); 
+											}).bind('touchend click', function(e) { // se declara el momento donde el usuario deja de presionar la pantalla y se detectan las coordenadas
+												e.preventDefault();
+												finalCoorddiv_6882948.x = (e.originalEvent.changedTouches[0].pageX); 
+												finalCoorddiv_6882948.y = (e.originalEvent.changedTouches[0].pageY); 
+												if (e.type=='touchend' && originalCoorddiv_6882948.x!=finalCoorddiv_6882948.x) //si el usuario realiz un swipe las coordenadas inicial y final sern diferentes por lo que no realiza ninguna accin ms que el propio swipe
+												{
+													return;
+												}
+												else
+												{
+													//al ser las coordenadas inicial y final iguales, se toma como un tap o click por lo que se ejecuta la llamada a la funcion del elemento correspondiente
+													grFunc.AbrirPagina('normal', 'pfs-no-arriesgan-gobernabilidad-segob/ar1715548?v=5');
+												}
+											});
+											//fin de modificacin
+                      fotocrop = new Array();
+                      fotocrop.url = appFC;
+                      fc882948[5]=fotocrop;
+										--></script></a></div><div class="caption"><div class="ic_caption"><p class="p_5"><script type="text/javascript">
+													
+													if (esHome) {
+														document.write('NACIONAL');
+													} else {
+														document.write('POL�TICA');
+													}
+													
+												</script></p><h1><a class="ligaonclick" href="pfs-no-arriesgan-gobernabilidad-segob/ar1715548?v=5">PFs no arriesgan gobernabilidad.- Segob</a></h1><ul class="ic_text herr"><li><a class="ligaonclick" href="acusa-durazo-activismo-de-fch-en-paro-de-pf/ar1715538?v=2" style="margin-right:4px;cursor:pointer;"><img src="libre/imgdiseno/Articulo.png" border="0" /></a></li></ul></div></div></div><div id="div_7882948" class="mdl n x1 y1 mR_10 ic_container" style="float:left;"><div class="btnArticulo"><a class="ligaonclick" href="protestan-federales-en-cuatro-estados/ar1715511?v=6" /></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="protestan-federales-en-cuatro-estados/ar1715511?v=6"><script type="text/javascript"><!--
+													
+                          appFC=URLImagenes+"imagenes/elementorelacionado/9/114/8113710.jpg";
+                          document.write('<img id="6_882948" height="200px" width="300px" border="1"  src=""/>');
+                          
+												
+											
+											//INICIA MODIFICACION 
+											//Se declaran las posiciones iniciales en cada elemento del riel
+											originalCoorddiv_7882948 = {x: 0,y: 0}; finalCoorddiv_7882948 = {x: 0,y: 0};
+											//Se declara el evento donde el usuario 'pone el dedo' en el div del elemento del riel y se detectan las coordenadas
+											$("#div_7882948").bind('touchstart', function(e) {
+												e.preventDefault();
+												originalCoorddiv_7882948.x = (e.originalEvent.changedTouches[0].pageX); 
+												originalCoorddiv_7882948.y = (e.originalEvent.changedTouches[0].pageY); 
+											}).bind('touchend click', function(e) { // se declara el momento donde el usuario deja de presionar la pantalla y se detectan las coordenadas
+												e.preventDefault();
+												finalCoorddiv_7882948.x = (e.originalEvent.changedTouches[0].pageX); 
+												finalCoorddiv_7882948.y = (e.originalEvent.changedTouches[0].pageY); 
+												if (e.type=='touchend' && originalCoorddiv_7882948.x!=finalCoorddiv_7882948.x) //si el usuario realiz un swipe las coordenadas inicial y final sern diferentes por lo que no realiza ninguna accin ms que el propio swipe
+												{
+													return;
+												}
+												else
+												{
+													//al ser las coordenadas inicial y final iguales, se toma como un tap o click por lo que se ejecuta la llamada a la funcion del elemento correspondiente
+													grFunc.AbrirPagina('normal', 'protestan-federales-en-cuatro-estados/ar1715511?v=6');
+												}
+											});
+											//fin de modificacin
+                      fotocrop = new Array();
+                      fotocrop.url = appFC;
+                      fc882948[6]=fotocrop;
+										--></script></a></div><div class="caption"><div class="ic_caption"><p class="p_5"><script type="text/javascript">
+													
+													if (esHome) {
+														document.write('NACIONAL');
+													} else {
+														document.write('SEGURIDAD');
+													}
+													
+												</script></p><h1><a class="ligaonclick" href="protestan-federales-en-cuatro-estados/ar1715511?v=6">Protestan federales en cuatro estados</a></h1><ul class="ic_text herr"><li><a class="ligaonclick" href="prende-a-medias-paro-de-pfs/ar1715427?v=3" style="margin-right:4px;cursor:pointer;"><img src="libre/imgdiseno/Articulo.png" border="0" /></a></li></ul></div></div></div><!----></div><script language="JavaScript"><!--
+				
+        document.write('</div>');
+        var load882948 = false;
+        $(window).on('scroll load', function () {
+					var position = $("#riel882948").offset();
+					var scrollBottom = $(window).scrollTop() + $(window).height();
+					if(position.top<(scrollBottom+200) && !load882948)
+					{
+						load882948 = true;
+						for (i=0; i<fc882948.length; i++)
+						{
+							$("#"+(i)+"_"+"882948").attr('src',fc882948[i].url);
+						}
+					}
+        });
+			  if (navigator.userAgent.match(/Android/i)|| navigator.userAgent.match(/webOS/i)|| navigator.userAgent.match(/iPhone/i)|| navigator.userAgent.match(/iPad/i)|| navigator.userAgent.match(/iPod/i)|| navigator.userAgent.match(/BlackBerry/i)|| navigator.userAgent.match(/Windows Phone/i))
+				{ 
+					$("#riel_882948").smoothDivScroll({touchScrolling: true,manualContinuousScrolling: true,autoScrollingStep: 5,hotSpotScrolling:false,mousewheelScrolling:''});
+				}
+			  
+			--></script></div></div><div class="clearfix"><!----></div><div id="zonatvtop"><div style='height:250px; width:960px; position:relative; margin-left:0px; margin-top:0px; margin-right:0px;margin-bottom:30px;'><div class="mdl x3 y1"><iframe id="play3x1" frameborder="0" scrolling="no" width="960" height="250" src="aplicacioneslibre/video/modulos/c960xs-body.html"><!----></iframe></div></div></div><div class="clearfix"><!----></div><div id="zonaPlay_3x1" stlye="width:960px;height:250px;"><div style='height:250px; width:960px; position:relative; margin-left:0px; margin-top:0px; margin-right:0px;margin-bottom:30px;'><div class="mdl x3 y1"><iframe id="play3x1" frameborder="0" scrolling="no" width="960" height="250" src="aplicacioneslibre/video/modulos/c960xs-mono-136.html"><!----></iframe></div></div></div><div class="clearfix"><!----></div><div id="zonanoticias"><div style='height:250px; width:300px; position:relative; margin-left:0px; margin-top:0px; margin-right:30px;margin-bottom:30px;'><div class="mdl x1 y1"><script type="text/javascript">
+				grAnuncio.DisplayAds2('x92', true, 'zonanoticias', 'orden1', 300, 250);
+			</script></div></div><div style='height:250px; width:300px; position:relative; margin-left:330px; margin-top:-280px; margin-right:30px;margin-bottom:30px;'><div class="&#xA;						mdl n x1 y1 ic_container&#xA;					"><div class="zoomBtn" style="cursor:pointer;"><a class="divLightbox" onclick="grFunc.Zoom('modal',URLImagenes+'imagenes/960x640/5/507/4506692.jpg',960,640,'La concentraci�n de alga se extiende desde �frica hasta el Golfo de M�xico y es probable que permanezca en el mar, advierte estudio.','FOTO: Tomada de USF')">
+					�
+				</a></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="hallan-mancha-de-sargazo-mas-grande-del-mundo/ar1715830?v=7"><script type="text/javascript"><!--
+							
+              appFC=URLImagenes+"imagenes/elementorelacionado/9/115/8114659.jpg";
+              document.write('<img border="0" alt="" class="lazy" data-original="'+appFC+'"/>');
+              
+						--></script></a></div><div class="caption"><div class=" ic_caption"><h1><a class="ligaonclick" href="hallan-mancha-de-sargazo-mas-grande-del-mundo/ar1715830?v=7">Hallan mancha de sargazo<br>m�s grande del mundo</a></h1><p class="ic_text"><a class="ligaonclick" href="hallan-mancha-de-sargazo-mas-grande-del-mundo/ar1715830?v=7">Un estudio revel� la mancha m�s grande del mundo de sargazo que se extiende desde el oeste de �frica hasta el Golfo de M�xico.<br></a></p><ul class="ic_text herr"><li><a class="ligaonclick" href="hallan-mancha-de-sargazo-mas-grande-del-mundo/ar1715830?v=7&amp;.html#comart" style="margin-right:4px;cursor:pointer;">24 <img src="libre/imgdiseno/comentario.png" border="0" /></a></li></ul></div></div></div></div><div style='height:250px; width:300px; position:relative; margin-left:660px; margin-top:-280px; margin-right:0px;margin-bottom:30px;'><div class="mdl x1 y1"><script type="text/javascript">
+				grAnuncio.DisplayAds2('x91', true, 'zonanoticias', 'orden1', 300, 250);
+			</script></div></div><div style='height:250px; width:630px; position:relative; margin-left:0px; margin-top:0px; margin-right:30px;margin-bottom:30px;'><div class="mdl promoH gd x2 y1 ic_container caption"><div class="btnPlayVideo"><a class="ligaonclick" href="de-la-roma-a-una-campina-mediterranea/gr/vi118204?ap=1&amp;md5=19c403cfc8515e8280d26b7ad0ab68e5&amp;ta=0dfdbac11765226904c16cb9ad1b2efe" onclick="grFunc.AbrirPagina('fancybox','de-la-roma-a-una-campina-mediterranea/gr/vi118204?ap=1&amp;md5=19c403cfc8515e8280d26b7ad0ab68e5&amp;ta=0dfdbac11765226904c16cb9ad1b2efe'); return false;" style="cursor:pointer;">�</a></div><div class="EAL">�</div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="de-la-roma-a-una-campina-mediterranea/gr/vi118204?ap=1&amp;md5=19c403cfc8515e8280d26b7ad0ab68e5&amp;ta=0dfdbac11765226904c16cb9ad1b2efe" onclick="grFunc.AbrirPagina('fancybox','de-la-roma-a-una-campina-mediterranea/gr/vi118204?ap=1&amp;md5=19c403cfc8515e8280d26b7ad0ab68e5&amp;ta=0dfdbac11765226904c16cb9ad1b2efe'); return false;"><script type="text/javascript"><!--
+										
+										appFC=URLImagenes+"imagenes/elementorelacionado/9/113/8112561.jpg";
+										document.write('<img border="0" class="lazy" data-original="'+appFC+'"/>');
+										
+									--></script></a></div><div style="width:630px; height:50px; background:#000; position:absolute; z-index:0;top:200px;"><!----></div><div class="caption"><div class="ic_caption"><h1><a class="ligaonclick" href="de-la-roma-a-una-campina-mediterranea/gr/vi118204?ap=1&amp;md5=19c403cfc8515e8280d26b7ad0ab68e5&amp;ta=0dfdbac11765226904c16cb9ad1b2efe" onclick="grFunc.AbrirPagina('fancybox','de-la-roma-a-una-campina-mediterranea/gr/vi118204?ap=1&amp;md5=19c403cfc8515e8280d26b7ad0ab68e5&amp;ta=0dfdbac11765226904c16cb9ad1b2efe'); return false;" style="cursor:pointer;">De la Roma a una campi�a mediterr�nea</a></h1><p class="ic_text" style="height: 35px;"><a class="ligaonclick" href="de-la-roma-a-una-campina-mediterranea/gr/vi118204?ap=1&amp;md5=19c403cfc8515e8280d26b7ad0ab68e5&amp;ta=0dfdbac11765226904c16cb9ad1b2efe" onclick="grFunc.AbrirPagina('fancybox','de-la-roma-a-una-campina-mediterranea/gr/vi118204?ap=1&amp;md5=19c403cfc8515e8280d26b7ad0ab68e5&amp;ta=0dfdbac11765226904c16cb9ad1b2efe'); return false;" style="cursor:pointer;">Mia Domenicca es el espacio perfecto para una cena rom�ntica, aderezada con buenos vinos e imperdible cocteler�a.</a></p></div></div><!----></div></div><div style='height:250px; width:300px; position:relative; margin-left:660px; margin-top:-280px; margin-right:0px;margin-bottom:30px;'><div class="&#xA;						mdl n x1 y1 ic_container&#xA;					"><div class="zoomBtn" style="cursor:pointer;"><a class="divLightbox" onclick="grFunc.Zoom('modal',URLImagenes+'imagenes/960x640/5/505/4504270.jpg',960,640,'Residentes del Centro M�dico Nacional Siglo XXI informaron que autoridades se comprometieron a pagarles adeudos a m�s tardar el 26 de julio.','FOTO: Tomada de @AResidentes')">
+					�
+				</a></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="prometen-pagos-a-residentes-del-imss/ar1715819?v=3"><script type="text/javascript"><!--
+							
+              appFC=URLImagenes+"imagenes/elementorelacionado/9/109/8108433.jpg";
+              document.write('<img border="0" alt="" class="lazy" data-original="'+appFC+'"/>');
+              
+						--></script></a></div><div class="caption"><div class=" ic_caption"><h1><a class="ligaonclick" href="prometen-pagos-a-residentes-del-imss/ar1715819?v=3">Prometen pagos a residentes <br>del IMSS</a></h1><p class="ic_text"><a class="ligaonclick" href="prometen-pagos-a-residentes-del-imss/ar1715819?v=3">Residentes del Centro M�dico Nacional Siglo XXI informaron que autoridades se comprometieron a pagarles adeudos a m�s tardar el 26 de julio.</a></p><ul class="ic_text herr"><li><a class="ligaonclick" href="acusan-residentes-de-imss-falta-de-pagos/ar1714011?v=3" style="margin-right:4px;cursor:pointer;"><img src="libre/imgdiseno/Articulo.png" border="0" /></a></li></ul></div></div></div></div><div style='height:250px; width:300px; position:relative; margin-left:0px; margin-top:0px; margin-right:30px;margin-bottom:30px;'><div class="&#xA;						mdl n x1 y1 ic_container&#xA;					"><div class="zoomBtn" style="cursor:pointer;"><a class="divLightbox" onclick="grFunc.Zoom('modal',URLImagenes+'imagenes/960x640/5/506/4505934.jpg',960,640,'Juez que llevar� todos los amparos que impugnan el proyecto de Santa Luc�a ha negado suspensiones contra inicio de obras en la Base Militar.','FOTO: Archiv')">
+					�
+				</a></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="dan-caso-sta-lucia-a-juez-que-nego-suspension/ar1715582?v=8"><script type="text/javascript"><!--
+							
+              appFC=URLImagenes+"imagenes/elementorelacionado/9/113/8112655.jpg";
+              document.write('<img border="0" alt="" class="lazy" data-original="'+appFC+'"/>');
+              
+						--></script></a></div><div class="caption"><div class=" ic_caption"><h1><a class="ligaonclick" href="dan-caso-sta-lucia-a-juez-que-nego-suspension/ar1715582?v=8">Dan caso Sta. Luc�a a juez <br>que neg� frenar obra</a></h1><p class="ic_text"><a class="ligaonclick" href="dan-caso-sta-lucia-a-juez-que-nego-suspension/ar1715582?v=8">Juez que llevar� todos los amparos que impugnan el proyecto de Santa Luc�a ha negado suspensiones contra inicio de obras en la Base Militar.</a></p><ul class="ic_text herr"><li><a class="ligaonclick" href="dan-caso-sta-lucia-a-juez-que-nego-suspension/ar1715582?v=8&amp;.html#comart" style="margin-right:4px;cursor:pointer;">40 <img src="libre/imgdiseno/comentario.png" border="0" /></a></li><li><a class="ligaonclick" href="concentra-un-juzgado-santa-lucia/ar1715123?v=6" style="margin-right:4px;cursor:pointer;"><img src="libre/imgdiseno/Articulo.png" border="0" /></a></li></ul></div></div></div></div><div style='height:250px; width:300px; position:relative; margin-left:330px; margin-top:-280px; margin-right:30px;margin-bottom:30px;'><div class="&#xA;						mdl n x1 y1 ic_container&#xA;					"><div class="zoomBtn" style="cursor:pointer;"><a class="divLightbox" onclick="grFunc.Zoom('modal',URLImagenes+'imagenes/960x640/5/507/4506525.jpg',960,640,'','FOTO: Notimex')">
+					�
+				</a></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="hay-contrato-claro-en-gasoducto-slim/ar1715675?v=6"><script type="text/javascript"><!--
+							
+              appFC=URLImagenes+"imagenes/elementorelacionado/9/115/8114214.jpg";
+              document.write('<img border="0" alt="" class="lazy" data-original="'+appFC+'"/>');
+              
+						--></script></a></div><div class="caption"><div class=" ic_caption"><h1><a class="ligaonclick" href="hay-contrato-claro-en-gasoducto-slim/ar1715675?v=6">Hay contrato claro en gasoducto.- Slim</a></h1><p class="ic_text"><a class="ligaonclick" href="hay-contrato-claro-en-gasoducto-slim/ar1715675?v=6">Carlos Slim dijo que en gasoducto  Samalayuca-S�sabe, sobre el que CFE pidi� arbitraje, hay contrato claro; destac� relevancia de inversi�n.</a></p><ul class="ic_text herr"><li><a class="ligaonclick" href="reconoce-sct-atraso-en-obras-por-amparos/ar1715496?v=3" style="margin-right:4px;cursor:pointer;"><img src="libre/imgdiseno/Articulo.png" border="0" /></a></li></ul></div></div></div></div><div style='height:250px; width:300px; position:relative; margin-left:660px; margin-top:-280px; margin-right:0px;margin-bottom:30px;'><div class="&#xA;						mdl n x1 y1 ic_container&#xA;					"><div class="zoomBtn" style="cursor:pointer;"><a class="divLightbox" onclick="grFunc.Zoom('modal',URLImagenes+'imagenes/960x640/5/507/4506538.jpg',960,640,'El 13 de diciembre de 2016 el entonces Procurador Ra�l Cervantes Andrade nombr� a Lira Salas como titular de la SEIDO, quien hab�a sido jefe de la Unidad Antilavado de la misma subprocuradur�a.','FOTO: Archivo')">
+					�
+				</a></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="pide-amparo-ex-titular-de-seido/ar1715723?v=2"><script type="text/javascript"><!--
+							
+              appFC=URLImagenes+"imagenes/elementorelacionado/9/115/8114248.jpg";
+              document.write('<img border="0" alt="" class="lazy" data-original="'+appFC+'"/>');
+              
+						--></script></a></div><div class="caption"><div class=" ic_caption"><h1><a class="ligaonclick" href="pide-amparo-ex-titular-de-seido/ar1715723?v=2">Pide amparo ex titular de SEIDO</a></h1><p class="ic_text"><a class="ligaonclick" href="pide-amparo-ex-titular-de-seido/ar1715723?v=2">Alonso Lira Salas, quien hasta diciembre pasado fue titular de SEIDO, solicit� un amparo contra cualquier orden de aprehensi�n en su contra.</a></p><ul class="ic_text herr" /></div></div></div></div><div style='height:250px; width:300px; position:relative; margin-left:0px; margin-top:0px; margin-right:30px;margin-bottom:30px;'><div class="&#xA;						mdl n x1 y1 ic_container&#xA;					"><div class="zoomBtn" style="cursor:pointer;"><a class="divLightbox" onclick="grFunc.Zoom('modal',URLImagenes+'imagenes/960x640/5/507/4506391.jpg',960,640,'Familiares, amigos y rivales en el cuadril�tero despiden en Guadalajara al luchador Pedro Aguayo, quien falleci� ayer a causa de un infarto.','FOTO: Renee P�rez')">
+					�
+				</a></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="velan-al-perro-aguayo/ar1715581?po=1&amp;v=6"><script type="text/javascript"><!--
+							
+              appFC=URLImagenes+"imagenes/elementorelacionado/9/114/8113873.jpg";
+              document.write('<img border="0" alt="" class="lazy" data-original="'+appFC+'"/>');
+              
+						--></script></a></div><div class="caption"><div class=" ic_caption"><h1><a class="ligaonclick" href="velan-al-perro-aguayo/ar1715581?po=1&amp;v=6">Velan al 'Perro' Aguayo en Jalisco</a></h1><p class="ic_text"><a class="ligaonclick" href="velan-al-perro-aguayo/ar1715581?po=1&amp;v=6">Familiares, amigos y rivales en el cuadril�tero despiden en Guadalajara al luchador Pedro Aguayo, quien falleci� a causa de un infarto.</a></p><ul class="ic_text herr" /></div></div></div></div><div style='height:250px; width:300px; position:relative; margin-left:330px; margin-top:-280px; margin-right:30px;margin-bottom:30px;'><div class="&#xA;						mdl n x1 y1 ic_container&#xA;					"><div class="zoomBtn" style="cursor:pointer;"><a class="divLightbox" onclick="grFunc.Zoom('modal',URLImagenes+'imagenes/960x640/5/507/4506368.jpg',960,640,'Manuel Bartlett, director de la CFE.','FOTO: Archivo')">
+					�
+				</a></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="exige-cfe-reembolso-pese-a-tregua/ar1715565?v=2"><script type="text/javascript"><!--
+							
+              appFC=URLImagenes+"imagenes/elementorelacionado/9/114/8113812.jpg";
+              document.write('<img border="0" alt="" class="lazy" data-original="'+appFC+'"/>');
+              
+						--></script></a></div><div class="caption"><div class=" ic_caption"><h1><a class="ligaonclick" href="exige-cfe-reembolso-pese-a-tregua/ar1715565?v=2">Exige CFE reembolso pese a tregua</a></h1><p class="ic_text"><a class="ligaonclick" href="exige-cfe-reembolso-pese-a-tregua/ar1715565?v=2">La CFE asegur� que mantendr� su intenci�n de pedir reembolso de casi 3 mil mdd a empresas que firmaron contratos para construir gasoductos.</a></p><ul class="ic_text herr"><li><a class="ligaonclick" href="exige-cfe-reembolso-pese-a-tregua/ar1715565?v=2&amp;.html#comart" style="margin-right:4px;cursor:pointer;">33 <img src="libre/imgdiseno/comentario.png" border="0" /></a></li><li><a class="ligaonclick" href="pide-amlo-tregua-para-renegociar-gasoductos/ar1714458?v=9" style="margin-right:4px;cursor:pointer;"><img src="libre/imgdiseno/Articulo.png" border="0" /></a></li></ul></div></div></div></div><div style='height:250px; width:300px; position:relative; margin-left:660px; margin-top:-280px; margin-right:0px;margin-bottom:30px;'><div class="&#xA;						mdl n x1 y1 ic_container&#xA;					"><div class="zoomBtn" style="cursor:pointer;"><a class="divLightbox" onclick="grFunc.Zoom('modal',URLImagenes+'imagenes/960x640/5/507/4506216.jpg',960,640,'A cinco d�as del anuncio oficial de la incursi�n de la Guardia Nacional en la Ciudad de M�xico, finalmente lleg�.','FOTO: Alfredo Moreno')">
+					�
+				</a></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="recorre-guardia-nacional-iztapalapa/ar1715446?v=4"><script type="text/javascript"><!--
+							
+              appFC=URLImagenes+"imagenes/elementorelacionado/9/114/8113396.jpg";
+              document.write('<img border="0" alt="" class="lazy" data-original="'+appFC+'"/>');
+              
+						--></script><img src="libre/imgdiseno/ic_fn_vo.png" style="position:absolute; top:0px; left:0px; width:100%; height:auto;" /></a></div><div class="caption"><div class=" ic_caption"><h1><a class="ligaonclick" href="recorre-guardia-nacional-iztapalapa/ar1715446?v=4">Llega Guardia Nacional a Iztapalapa</a></h1><p class="ic_text"><a class="ligaonclick" href="recorre-guardia-nacional-iztapalapa/ar1715446?v=4">A cinco d�as del anuncio oficial de la incursi�n de la Guardia Nacional en la Ciudad, la corporaci�n ya patrulla en la Alcald�a Iztapalapa.</a></p><ul class="ic_text herr"><li><a onclick="grFunc.AbrirPagina('fancybox','arranca-guardia-nacional-en-iztapalapa/gr/vi118242?ap=1&amp;md5=b11d64459c3ed74e6e92fd81aef92e56&amp;ta=0dfdbac11765226904c16cb9ad1b2efe'); return false;" style="margin-right:4px;cursor:pointer;"><img src="libre/imgdiseno/galeriamultimedia.png" border="0" /></a></li><li><a class="ligaonclick" href="recorre-guardia-nacional-iztapalapa/ar1715446?v=4&amp;.html#comart" style="margin-right:4px;cursor:pointer;">12 <img src="libre/imgdiseno/comentario.png" border="0" /></a></li><li><a class="ligaonclick" href="busca-cdh-vigilar-guardia-nacional/ar1714694?v=2" style="margin-right:4px;cursor:pointer;"><img src="libre/imgdiseno/Articulo.png" border="0" /></a></li></ul></div></div></div></div><div style='height:250px; width:300px; position:relative; margin-left:0px; margin-top:0px; margin-right:30px;margin-bottom:30px;'><div class="&#xA;						mdl n x1 y1 ic_container&#xA;					"><div class="zoomBtn" style="cursor:pointer;"><a class="divLightbox" onclick="grFunc.Zoom('modal',URLImagenes+'imagenes/960x640/5/507/4506652.jpg',960,640,'','FOTO: Grupo REFORMA')">
+					�
+				</a></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="ejecutan-a-narco-que-operaba-en-san-pedro-nl/ar1715789?v=4"><script type="text/javascript"><!--
+							
+              appFC=URLImagenes+"imagenes/elementorelacionado/9/115/8114556.jpg";
+              document.write('<img border="0" alt="" class="lazy" data-original="'+appFC+'"/>');
+              
+						--></script></a></div><div class="caption"><div class=" ic_caption"><h1><a class="ligaonclick" href="ejecutan-a-narco-que-operaba-en-san-pedro-nl/ar1715789?v=4">Ejecutan a narco que operaba<br>en San Pedro, NL</a></h1><p class="ic_text"><a class="ligaonclick" href="ejecutan-a-narco-que-operaba-en-san-pedro-nl/ar1715789?v=4">H�ctor Huerta, capo que disputaba la plaza de San Pedro y era se�alado por homicidio de ex titular de AEI de NL, fue asesinado en Zapopan.</a></p><ul class="ic_text herr" /></div></div></div></div><div style='height:250px; width:300px; position:relative; margin-left:330px; margin-top:-280px; margin-right:30px;margin-bottom:30px;'><div class="mdl x1 y1"><script type="text/javascript">
+				grAnuncio.DisplayAds2('x91', true, 'zonanoticias', 'orden2', 300, 250);
+			</script></div></div><div style='height:250px; width:300px; position:relative; margin-left:660px; margin-top:-280px; margin-right:0px;margin-bottom:30px;'><div class="mdl promoN x1 y1 ic_container caption"><div class="btnArticulo"><a class="ligaonclick" href="gringo-o-no/ar1712075?v=3" onclick="grFunc.AbrirPagina('normal','gringo-o-no/ar1712075?v=3'); return false;" style="cursor:pointer;">�</a></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="gringo-o-no/ar1712075?v=3" onclick="grFunc.AbrirPagina('normal','gringo-o-no/ar1712075?v=3'); return false;"><script type="text/javascript"><!--
+										
+										appFC=URLImagenes+"imagenes/elementorelacionado/9/114/8113001.jpg";
+										document.write('<img border="0" class="lazy" data-original="'+appFC+'"/>');
+										
+									--></script></a></div><div class="sin_ic_caption ic_caption"><p class="balazo"><script type="text/javascript">
+					
+					if (esHome) {
+						document.write('BUENA MESA');
+					} else {
+						document.write('COCINA INTERNACIONAL');
+					}
+					
+				</script></p><h1><a class="ligaonclick" href="gringo-o-no/ar1712075?v=3" onclick="grFunc.AbrirPagina('normal','gringo-o-no/ar1712075?v=3'); return false;" style="cursor:pointer;">�Son estos platillos de EU?</a></h1><p class="sin_ic_text ic_text"><a class="ligaonclick" href="gringo-o-no/ar1712075?v=3" onclick="grFunc.AbrirPagina('normal','gringo-o-no/ar1712075?v=3'); return false;" style="cursor:pointer;">Celebra este 4 de julio, D�a de la Independencia de Estados Unidos, descubriendo los or�genes de su gastronom�a con este test.</a></p></div><!----></div></div><div style='height:250px; width:300px; position:relative; margin-left:0px; margin-top:0px; margin-right:30px;margin-bottom:30px;'><div class="&#xA;						mdl n x1 y1 ic_container&#xA;					"><div class="zoomBtn" style="cursor:pointer;"><a class="divLightbox" onclick="grFunc.Zoom('modal',URLImagenes+'imagenes/960x640/5/507/4506681.jpg',960,640,'La Oficina de la Presidencia afirm� inicialmente que desconoc�a qui�nes integran ambos cuerpos de funcionarios, en respuesta a una solicitud de informaci�n ingresada el 11 de marzo por REFORMA.','FOTO: Archivo')">
+					�
+				</a></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="ordenan-dar-nombres-de-ayudantia-de-amlo/ar1715816?v=4"><script type="text/javascript"><!--
+							
+              appFC=URLImagenes+"imagenes/elementorelacionado/9/115/8114630.jpg";
+              document.write('<img border="0" alt="" class="lazy" data-original="'+appFC+'"/>');
+              
+						--></script></a></div><div class="caption"><div class=" ic_caption"><h1><a class="ligaonclick" href="ordenan-dar-nombres-de-ayudantia-de-amlo/ar1715816?v=4">Ordenan dar nombres de Ayudant�a<br>de AMLO</a></h1><p class="ic_text"><a class="ligaonclick" href="ordenan-dar-nombres-de-ayudantia-de-amlo/ar1715816?v=4">El INAI orden� a Presidencia revelar nombres de los integrantes de la Ayudant�a y equipo de Log�stica de AMLO, tras negativa de su oficina.</a></p><ul class="ic_text herr"><li><a class="ligaonclick" href="brinda-ayudantia-seguridad-a-amlo/ar1554006?v=3" style="margin-right:4px;cursor:pointer;"><img src="libre/imgdiseno/Articulo.png" border="0" /></a></li></ul></div></div></div></div><div style='height:250px; width:300px; position:relative; margin-left:330px; margin-top:-280px; margin-right:30px;margin-bottom:30px;'><div class="mdl promoN x1 y1 ic_container caption"><div class="btnArticulo"><a class="ligaonclick" href="notiperro-las-5-razas-mas-grandes/ar1715013" onclick="grFunc.AbrirPagina('normal','notiperro-las-5-razas-mas-grandes/ar1715013'); return false;" style="cursor:pointer;">�</a></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="notiperro-las-5-razas-mas-grandes/ar1715013" onclick="grFunc.AbrirPagina('normal','notiperro-las-5-razas-mas-grandes/ar1715013'); return false;"><script type="text/javascript"><!--
+										
+										appFC=URLImagenes+"imagenes/elementorelacionado/9/114/8113722.jpg";
+										document.write('<img border="0" class="lazy" data-original="'+appFC+'"/>');
+										
+									--></script></a></div><div class="sin_ic_caption ic_caption"><p class="balazo"><script type="text/javascript">
+					
+					if (esHome) {
+						document.write('VERDE');
+					} else {
+						document.write('FLORA Y FAUNA');
+					}
+					
+				</script></p><h1><a class="ligaonclick" href="notiperro-las-5-razas-mas-grandes/ar1715013" onclick="grFunc.AbrirPagina('normal','notiperro-las-5-razas-mas-grandes/ar1715013'); return false;" style="cursor:pointer;">NotiPerro:<br>Las 5 razas m�s grandes</a></h1><p class="sin_ic_text ic_text"><a class="ligaonclick" href="notiperro-las-5-razas-mas-grandes/ar1715013" onclick="grFunc.AbrirPagina('normal','notiperro-las-5-razas-mas-grandes/ar1715013'); return false;" style="cursor:pointer;">Los perros grandes son tan buenos compa�eros como los peque�os, te dejamos algunas recomendaciones para estos canes.</a></p></div><!----></div></div><div style='height:250px; width:300px; position:relative; margin-left:660px; margin-top:-280px; margin-right:0px;margin-bottom:30px;'><div class="&#xA;						mdl n x1 y1 ic_container&#xA;					"><div class="zoomBtn" style="cursor:pointer;"><a class="divLightbox" onclick="grFunc.Zoom('modal',URLImagenes+'imagenes/960x640/5/507/4506593.jpg',960,640,'','FOTO: H�ctor Castro')">
+					�
+				</a></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="chocan-23-vehiculos-en-nuevo-leon/ar1715815?v=4"><script type="text/javascript"><!--
+							
+              appFC=URLImagenes+"imagenes/elementorelacionado/9/115/8114395.jpg";
+              document.write('<img border="0" alt="" class="lazy" data-original="'+appFC+'"/>');
+              
+						--></script></a></div><div class="caption"><div class=" ic_caption"><h1><a class="ligaonclick" href="chocan-23-vehiculos-en-nuevo-leon/ar1715815?v=4">Chocan 23 veh�culos en Nuevo Le�n</a></h1><p class="ic_text"><a class="ligaonclick" href="chocan-23-vehiculos-en-nuevo-leon/ar1715815?v=4">Al menos 23 veh�culos chocaron en la Avenida Garza Sada, en Monterrey, Nuevo Le�n, sin que se reporten muertos o heridos graves.</a></p><ul class="ic_text herr" /></div></div></div></div><div style='height:250px; width:630px; position:relative; margin-left:0px; margin-top:0px; margin-right:30px;margin-bottom:30px;'><div class='mdl x2 y1'><style>
+#dosporuno, #dosporuno a{ margin:0; padding:0; display:block; width:630px; height:250px; }
+</style>
+<div id="dosporuno">
+    <a href="https://gruporeforma.reforma.com/offlines/ejecutometro/" target="_blank">
+	    <img src="https://www.reforma.com/libre/online/diseno/img_include/pprincipal/2x1_ejecutometro_4jun.jpg" width="630" height="250" />
+    </a>
+</div></div></div><div style='height:250px; width:300px; position:relative; margin-left:660px; margin-top:-280px; margin-right:0px;margin-bottom:30px;'><div class="mdl x1 y1"><!----><iframe id="AristeguiNoticiasFrame" frameborder="0" scrolling="no" width="300" height="250" src=""></iframe>
+<script type="text/javascript">
+	if (grFunc.EsStage) {
+		appA = URLImagenes + 'libre/imgdiseno/aristegui.png';
+		document.write('<div style="position: absolute; float:left;"><img border="0" alt="" class="lazy" data-original="'+appA+'" width="300" height="250" /></div>');
+		$("#AristeguiNoticiasFrame").css('display', 'none');
+	} else {
+		var loadAristegui = false;
+		var date = new Date();
+		var ts = date.getFullYear() + ("0" + (date.getMonth() + 1)).slice(-2) + ("0" + date.getDate()).slice(-2) + ("0" + date.getHours()).slice(-2) + ("0" + date.getMinutes()).slice(-2);
+		$(window).scroll(function () {
+			var position = $("#AristeguiNoticiasFrame").offset();
+			var currentURL = document.URL;
+			var scrollBottom = $(window).scrollTop() + $(window).height();
+			if(position.top < (scrollBottom+200) && !loadAristegui) {
+				loadAristegui = true;
+				if(currentURL.indexOf('elnorte') > -1) {
+					$("#AristeguiNoticiasFrame").attr('src',location.protocol+'//aristeguinoticias.com/tickerreforma/?code=elnorte&ts='+ts);
+				}
+				if(currentURL.indexOf('mural') > -1) {
+					$("#AristeguiNoticiasFrame").attr('src',location.protocol+'//aristeguinoticias.com/tickerreforma/?code=mural&ts='+ts);
+				}
+				if(currentURL.indexOf('reforma') > -1) {
+					$("#AristeguiNoticiasFrame").attr('src',location.protocol+'//aristeguinoticias.com/tickerreforma/?code=reforma&ts='+ts);
+				}
+			}
+		});
+	}
+</script></div></div><div style='height:250px; width:300px; position:relative; margin-left:0px; margin-top:0px; margin-right:30px;margin-bottom:30px;'><div class="&#xA;						mdl n x1 y1 ic_container&#xA;					"><div class="zoomBtn" style="cursor:pointer;"><a class="divLightbox" onclick="grFunc.Zoom('modal',URLImagenes+'imagenes/960x640/5/507/4506670.jpg',960,640,'Seg�n el reporte oficial, la droga tiene un valor aproximado de 3 millones 200 mil pesos.','FOTO: Tomada de Twitter')">
+					�
+				</a></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="aseguran-2-tons-de-mariguana-en-playa-de-bc/ar1715802?v=2"><script type="text/javascript"><!--
+							
+              appFC=URLImagenes+"imagenes/elementorelacionado/9/115/8114604.jpg";
+              document.write('<img border="0" alt="" class="lazy" data-original="'+appFC+'"/>');
+              
+						--></script></a></div><div class="caption"><div class=" ic_caption"><h1><a class="ligaonclick" href="aseguran-2-tons-de-mariguana-en-playa-de-bc/ar1715802?v=2">Aseguran 2 toneladas<br>de droga en playa de BC</a></h1><p class="ic_text"><a class="ligaonclick" href="aseguran-2-tons-de-mariguana-en-playa-de-bc/ar1715802?v=2">Elementos del Ej�rcito aseguraron dos toneladas de mariguana en una embarcaci�n ubicada en orilla de playa de Ensenada, BC, inform� Sedena.</a></p><ul class="ic_text herr"><li><a class="ligaonclick" href="hallan-plantio-de-mariguana-en-refineria-en-nl/ar1702471?v=3" style="margin-right:4px;cursor:pointer;"><img src="libre/imgdiseno/Articulo.png" border="0" /></a></li></ul></div></div></div></div><div style='height:250px; width:300px; position:relative; margin-left:330px; margin-top:-280px; margin-right:30px;margin-bottom:30px;'><div class="&#xA;						mdl n x1 y1 ic_container&#xA;					"><div class="zoomBtn" style="cursor:pointer;"><a class="divLightbox" onclick="grFunc.Zoom('modal',URLImagenes+'imagenes/960x640/5/446/4445877.jpg',960,640,'','FOTO: Alfredo Moreno Espinosa')">
+					�
+				</a></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="afirma-romo-que-sigue-luna-de-miel-con-ip/ar1715389?v=5"><script type="text/javascript"><!--
+							
+              appFC=URLImagenes+"imagenes/elementorelacionado/8/962/7961119.jpg";
+              document.write('<img border="0" alt="" class="lazy" data-original="'+appFC+'"/>');
+              
+						--></script></a></div><div class="caption"><div class=" ic_caption"><h1><a class="ligaonclick" href="afirma-romo-que-sigue-luna-de-miel-con-ip/ar1715389?v=5">Afirma Romo que sigue 'luna de miel'<br>con IP</a></h1><p class="ic_text"><a class="ligaonclick" href="afirma-romo-que-sigue-luna-de-miel-con-ip/ar1715389?v=5">Jefe de la Oficina de Presidencia asegur� que la relaci�n con empresarios que ten�an contratos con NAIM sigue en la 'luna de miel' y avanza.</a></p><ul class="ic_text herr"><li><a class="ligaonclick" href="afirma-romo-que-sigue-luna-de-miel-con-ip/ar1715389?v=5&amp;.html#comart" style="margin-right:4px;cursor:pointer;">70 <img src="libre/imgdiseno/comentario.png" border="0" /></a></li><li><a class="ligaonclick" href="tienen-paises-ventajas-al-promocionarse/ar1715101?v=2" style="margin-right:4px;cursor:pointer;"><img src="libre/imgdiseno/Articulo.png" border="0" /></a></li></ul></div></div></div></div><div style='height:250px; width:300px; position:relative; margin-left:660px; margin-top:-280px; margin-right:0px;margin-bottom:30px;'><div class="mdl x1 y1"><script type="text/javascript">
+				grAnuncio.DisplayAds2('x91', true, 'zonanoticias', 'orden3', 300, 250);
+			</script></div></div><div style='height:250px; width:300px; position:relative; margin-left:0px; margin-top:0px; margin-right:30px;margin-bottom:30px;'><div class="&#xA;						mdl n x1 y1 ic_container&#xA;					"><div class="zoomBtn" style="cursor:pointer;"><a class="divLightbox" onclick="grFunc.Zoom('modal',URLImagenes+'imagenes/960x640/5/507/4506401.jpg',960,640,'Un hombre fue herido de bala durante un robo a transporte p�blico, en la Colonia Emiliano Zapata, en La Paz, Estado de M�xico.','FOTO: Especial')">
+					�
+				</a></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="balean-a-usuario-en-transporte-en-edomex/ar1715586?v=2"><script type="text/javascript"><!--
+							
+              appFC=URLImagenes+"imagenes/elementorelacionado/9/114/8113900.jpg";
+              document.write('<img border="0" alt="" class="lazy" data-original="'+appFC+'"/>');
+              
+						--></script></a></div><div class="caption"><div class=" ic_caption"><h1><a class="ligaonclick" href="balean-a-usuario-en-transporte-en-edomex/ar1715586?v=2">Balean a usuario en transporte<br>en Edomex</a></h1><p class="ic_text"><a class="ligaonclick" href="balean-a-usuario-en-transporte-en-edomex/ar1715586?v=2">Un hombre fue herido de bala en la pierna durante un robo a transporte p�blico, en la Colonia Emiliano Zapata, en La Paz, Estado de M�xico.</a></p><ul class="ic_text herr" /></div></div></div></div><div style='height:250px; width:300px; position:relative; margin-left:330px; margin-top:-280px; margin-right:30px;margin-bottom:30px;'><div class="&#xA;						mdl n x1 y1 ic_container&#xA;					"><div class="zoomBtn" style="cursor:pointer;"><a class="divLightbox" onclick="grFunc.Zoom('modal',URLImagenes+'imagenes/960x640/5/426/4425695.jpg',960,640,'Cofece aprob� medidas de austeridad, como reducci�n de vi�ticos y en producci�n de spots, que significar�n un ahorro de 1.9 mdp.','FOTO: Archivo')">
+					�
+				</a></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="va-cofece-por-ahorro-de-1-9-mdp-con-medidas/ar1715554?v=4"><script type="text/javascript"><!--
+							
+              appFC=URLImagenes+"imagenes/elementorelacionado/8/912/7911183.jpg";
+              document.write('<img border="0" alt="" class="lazy" data-original="'+appFC+'"/>');
+              
+						--></script></a></div><div class="caption"><div class=" ic_caption"><h1><a class="ligaonclick" href="va-cofece-por-ahorro-de-1-9-mdp-con-medidas/ar1715554?v=4">Va Cofece por ahorro<br>de 1.9 mdp con medidas</a></h1><p class="ic_text"><a class="ligaonclick" href="va-cofece-por-ahorro-de-1-9-mdp-con-medidas/ar1715554?v=4">Cofece aprob� medidas de austeridad, como reducci�n de vi�ticos y en producci�n de spots, que significar�n un ahorro de 1.9 mdp.</a></p><ul class="ic_text herr"><li><a class="ligaonclick" href="palomea-cofece-licitacion-de-medidores/ar1712969?v=8" style="margin-right:4px;cursor:pointer;"><img src="libre/imgdiseno/Articulo.png" border="0" /></a></li></ul></div></div></div></div><div style='height:530px; width:300px; position:relative; margin-left:660px; margin-top:-280px; margin-right:0px;margin-bottom:30px;'><div class="mdl x1 y2"><!----><script language="JavaScript">
+	var loadlomasvisto = false;
+	$(window).scroll(function () {
+		var position = $("#lomasvisto").offset();
+		var currentURL = document.URL;
+		var scrollBottom = $(window).scrollTop() + $(window).height();
+		if(position.top < (scrollBottom+200) && !loadlomasvisto)
+		{
+			loadlomasvisto = true;
+			if(currentURL.indexOf('elnorte') > -1)
+			{
+				$("#lomasvisto").attr('src',location.protocol+'//www.elnorte.com/aplicacioneslibre/concentradoras/LoMasVisto.aspx');
+			}
+			if(currentURL.indexOf('mural') > -1)
+			{
+				$("#lomasvisto").attr('src',location.protocol+'//www.mural.com/aplicacioneslibre/concentradoras/LoMasVisto.aspx');
+			}
+			if(currentURL.indexOf('reforma') > -1)
+			{
+				$("#lomasvisto").attr('src',location.protocol+'//www.reforma.com/aplicacioneslibre/concentradoras/LoMasVisto.aspx');
+			}
+		}
+	});
+</script>
+<iframe id="lomasvisto" frameborder="0" scrolling="no" width="300px" height="530px" src=""></iframe></div></div><div style='height:250px; width:300px; position:relative; margin-left:0px; margin-top:-280px; margin-right:30px;margin-bottom:30px;'><div class="&#xA;						mdl n x1 y1 ic_container&#xA;					"><div class="zoomBtn" style="cursor:pointer;"><a class="divLightbox" onclick="grFunc.Zoom('modal',URLImagenes+'imagenes/960x640/5/507/4506167.jpg',960,640,'Gianluigi Buffon tendr� que competir por la plaza titular con el polaco Woijciech Szczesny.','FOTO: Tomada de @juventusfces')">
+					�
+				</a></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="firma-buffon-contrato-con-la-juve/ar1715409?po=1&amp;v=5"><script type="text/javascript"><!--
+							
+              appFC=URLImagenes+"imagenes/elementorelacionado/9/114/8113266.jpg";
+              document.write('<img border="0" alt="" class="lazy" data-original="'+appFC+'"/>');
+              
+						--></script></a></div><div class="caption"><div class=" ic_caption"><h1><a class="ligaonclick" href="firma-buffon-contrato-con-la-juve/ar1715409?po=1&amp;v=5">Regresa Buffon con la Juve</a></h1><p class="ic_text"><a class="ligaonclick" href="firma-buffon-contrato-con-la-juve/ar1715409?po=1&amp;v=5">El portero italiano Gianluigi Buffon regres� con la Juventus, donde firm� contrato por una temporada, tras un a�o de jugar en el PSG.</a></p><ul class="ic_text herr"><li><a class="ligaonclick" href="deja-gianluigi-buffon-al-psg/ar1693727?po=1&amp;v=4" style="margin-right:4px;cursor:pointer;"><img src="libre/imgdiseno/Articulo.png" border="0" /></a></li></ul></div></div></div></div><div style='height:250px; width:300px; position:relative; margin-left:330px; margin-top:-280px; margin-right:30px;margin-bottom:30px;'><div class="mdl x1 y1"><script type="text/javascript">
+				grAnuncio.DisplayAds2('x91', true, 'zonanoticias', 'orden4', 300, 250);
+			</script></div></div><div style='height:250px; width:630px; position:relative; margin-left:0px; margin-top:0px; margin-right:30px;margin-bottom:30px;'><div class="mdl promoH gd x2 y1 ic_container caption"><div class="btnPlayVideo"><a class="ligaonclick" href="el-maestro-de-la-imagen/gr/vi118198?ap=1&amp;md5=7daae7dcdefa726a66a06059a3c4861a&amp;ta=0dfdbac11765226904c16cb9ad1b2efe" onclick="grFunc.AbrirPagina('fancybox','el-maestro-de-la-imagen/gr/vi118198?ap=1&amp;md5=7daae7dcdefa726a66a06059a3c4861a&amp;ta=0dfdbac11765226904c16cb9ad1b2efe'); return false;" style="cursor:pointer;">�</a></div><div class="EAL">�</div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="el-maestro-de-la-imagen/gr/vi118198?ap=1&amp;md5=7daae7dcdefa726a66a06059a3c4861a&amp;ta=0dfdbac11765226904c16cb9ad1b2efe" onclick="grFunc.AbrirPagina('fancybox','el-maestro-de-la-imagen/gr/vi118198?ap=1&amp;md5=7daae7dcdefa726a66a06059a3c4861a&amp;ta=0dfdbac11765226904c16cb9ad1b2efe'); return false;"><script type="text/javascript"><!--
+										
+										appFC=URLImagenes+"imagenes/elementorelacionado/9/113/8112475.jpg";
+										document.write('<img border="0" class="lazy" data-original="'+appFC+'"/>');
+										
+									--></script></a></div><div style="width:630px; height:50px; background:#000; position:absolute; z-index:0;top:200px;"><!----></div><div class="caption"><div class="ic_caption"><h1><a class="ligaonclick" href="el-maestro-de-la-imagen/gr/vi118198?ap=1&amp;md5=7daae7dcdefa726a66a06059a3c4861a&amp;ta=0dfdbac11765226904c16cb9ad1b2efe" onclick="grFunc.AbrirPagina('fancybox','el-maestro-de-la-imagen/gr/vi118198?ap=1&amp;md5=7daae7dcdefa726a66a06059a3c4861a&amp;ta=0dfdbac11765226904c16cb9ad1b2efe'); return false;" style="cursor:pointer;">El maestro de la imagen</a></h1><p class="ic_text" style="height: 35px;"><a class="ligaonclick" href="el-maestro-de-la-imagen/gr/vi118198?ap=1&amp;md5=7daae7dcdefa726a66a06059a3c4861a&amp;ta=0dfdbac11765226904c16cb9ad1b2efe" onclick="grFunc.AbrirPagina('fancybox','el-maestro-de-la-imagen/gr/vi118198?ap=1&amp;md5=7daae7dcdefa726a66a06059a3c4861a&amp;ta=0dfdbac11765226904c16cb9ad1b2efe'); return false;" style="cursor:pointer;">Francisco Iglesias comparte c�mo puede lograrse una transformaci�n a favor de la personalidad, siguiendo sencillos pasos de belleza.</a></p></div></div><!----></div></div><div style='height:250px; width:300px; position:relative; margin-left:660px; margin-top:-280px; margin-right:0px;margin-bottom:30px;'><div class="mdl x1 y1"><a href="https://www.nyt.com/es/" target="_blank"><img src="libre/imgdiseno/masnotas_NYT.png" width="300" height="32" /></a><iframe class="x1 y1" style="border:none;margin:0;padding:0;" scrolling="no" src="aplicacioneslibre/concentradoras/ListadoElementos.aspx?sc=1855&amp;idscroll=1229497&amp;wscroll=300&amp;hscroll=218"><!----></iframe></div></div><div style='height:250px; width:630px; position:relative; margin-left:0px; margin-top:0px; margin-right:30px;margin-bottom:30px;'><div class="mdl x2 y1"><script type="text/javascript">
+				grAnuncio.DisplayAds2('x96', true, 'zonanoticias', 'orden1', 630, 250);
+			</script></div></div><div style='height:250px; width:300px; position:relative; margin-left:660px; margin-top:-280px; margin-right:0px;margin-bottom:30px;'><div class="&#xA;						mdl n x1 y1 ic_container&#xA;					"><div class="zoomBtn" style="cursor:pointer;"><a class="divLightbox" onclick="grFunc.Zoom('modal',URLImagenes+'imagenes/960x640/2/887/1886341.jpg',960,640,'El indicador que eval�a las posibilidades de los integrantes del hogar de efectuar compras de bienes durables cay� 6.01 por ciento en enero.','FOTO: archivo')">
+					�
+				</a></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="hila-confianza-del-consumidor-4-caidas/ar1715334?v=6"><script type="text/javascript"><!--
+							
+              appFC=URLImagenes+"imagenes/elementorelacionado/3/528/2527405.jpg";
+              document.write('<img border="0" alt="" class="lazy" data-original="'+appFC+'"/>');
+              
+						--></script></a></div><div class="caption"><div class=" ic_caption"><h1><a class="ligaonclick" href="hila-confianza-del-consumidor-4-caidas/ar1715334?v=6">Hila confianza del consumidor 4 ca�das</a></h1><p class="ic_text"><a class="ligaonclick" href="hila-confianza-del-consumidor-4-caidas/ar1715334?v=6">En junio, Confianza del Consumidor lig� 4 ca�das mensuales y lleg� a 44.22 puntos, su nivel m�s bajo desde diciembre, seg�n cifras de Inegi.</a></p><ul class="ic_text herr"><li><a class="ligaonclick" href="cae-confianza-a-nivel-mas-bajo-del-ano/ar1692779?v=7" style="margin-right:4px;cursor:pointer;"><img src="libre/imgdiseno/Articulo.png" border="0" /></a></li></ul></div></div></div></div></div><div class="clearfix"><!----></div><div id="zonareels"><div style='height:250px; width:960px; position:relative; margin-left:0px; margin-top:0px; margin-right:0px;margin-bottom:30px;'><script language="JavaScript"><!--
+				
+        fc27459 = new Array();
+        document.write('<div id="riel27459" class="bgGris x3">');
+			--></script><div class="rielTit"><h2><span style="display: inline-block;vertical-align: middle;">RECOMENDAMOS</span></h2></div><div id="riel_27459" class="riel y1"><div id="div_127459" class="mdl n x1 y1 mR_10 ic_container" style="float:left;"><div class="btnPlayVideo"><a class="ligaonclick" href="dolor-y-gloria/gr/vi118199?po=2&amp;ap=1&amp;md5=9a8a59e49f48e787c74378834687799e&amp;ta=0dfdbac11765226904c16cb9ad1b2efe" onclick="grFunc.AbrirPagina('fancybox','dolor-y-gloria/gr/vi118199?po=2&amp;ap=1&amp;md5=9a8a59e49f48e787c74378834687799e&amp;ta=0dfdbac11765226904c16cb9ad1b2efe'); return false;" /></div><div class="EAL">�</div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="dolor-y-gloria/gr/vi118199?po=2&amp;ap=1&amp;md5=9a8a59e49f48e787c74378834687799e&amp;ta=0dfdbac11765226904c16cb9ad1b2efe" onclick="grFunc.AbrirPagina('fancybox','dolor-y-gloria/gr/vi118199?po=2&amp;ap=1&amp;md5=9a8a59e49f48e787c74378834687799e&amp;ta=0dfdbac11765226904c16cb9ad1b2efe'); return false;"><script type="text/javascript"><!--
+													
+                          appFC=URLImagenes+"imagenes/elementorelacionado/9/113/8112488.jpg";
+                          document.write('<img id="0_27459" height="200px" width="300px" border="2"  src=""/>');
+                          
+												
+											
+											//INICIA MODIFICACION 
+											//Se declaran las posiciones iniciales en cada elemento del riel
+											originalCoorddiv_127459 = {x: 0,y: 0}; finalCoorddiv_127459 = {x: 0,y: 0};
+											//Se declara el evento donde el usuario 'pone el dedo' en el div del elemento del riel y se detectan las coordenadas
+											$("#div_127459").bind('touchstart', function(e) {
+												e.preventDefault();
+												originalCoorddiv_127459.x = (e.originalEvent.changedTouches[0].pageX); 
+												originalCoorddiv_127459.y = (e.originalEvent.changedTouches[0].pageY); 
+											}).bind('touchend click', function(e) { // se declara el momento donde el usuario deja de presionar la pantalla y se detectan las coordenadas
+												e.preventDefault();
+												finalCoorddiv_127459.x = (e.originalEvent.changedTouches[0].pageX); 
+												finalCoorddiv_127459.y = (e.originalEvent.changedTouches[0].pageY); 
+												if (e.type=='touchend' && originalCoorddiv_127459.x!=finalCoorddiv_127459.x) //si el usuario realiz un swipe las coordenadas inicial y final sern diferentes por lo que no realiza ninguna accin ms que el propio swipe
+												{
+													return;
+												}
+												else
+												{
+													//al ser las coordenadas inicial y final iguales, se toma como un tap o click por lo que se ejecuta la llamada a la funcion del elemento correspondiente
+													grFunc.AbrirPagina('fancybox','dolor-y-gloria/gr/vi118199?po=2&ap=1&md5=9a8a59e49f48e787c74378834687799e&ta=0dfdbac11765226904c16cb9ad1b2efe'); return false;;
+												}
+											});
+											//fin de modificacin
+                      fotocrop = new Array();
+                      fotocrop.url = appFC;
+                      fc27459[0]=fotocrop;
+										--></script></a></div><div class="caption"><div class="ic_caption"><p class="p_5"><script type="text/javascript">
+													
+													if (esHome) {
+														document.write('GENTE');
+													} else {
+														document.write('LA VEO O NO LA VEO');
+													}
+													
+												</script></p><h1><a class="ligaonclick" href="dolor-y-gloria/gr/vi118199?po=2&amp;ap=1&amp;md5=9a8a59e49f48e787c74378834687799e&amp;ta=0dfdbac11765226904c16cb9ad1b2efe" onclick="grFunc.AbrirPagina('fancybox','dolor-y-gloria/gr/vi118199?po=2&amp;ap=1&amp;md5=9a8a59e49f48e787c74378834687799e&amp;ta=0dfdbac11765226904c16cb9ad1b2efe'); return false;">Dolor y Gloria</a></h1></div></div></div><div id="div_227459" class="mdl n x1 y1 mR_10 ic_container" style="float:left;"><div class="btnPlayVideo"><a class="ligaonclick" href="rib-eye-con-cebolla-y-mostaza-dijon/gr/vi118203?po=2&amp;ap=1&amp;md5=c57753e20802ffb374be802c4857b98c&amp;ta=0dfdbac11765226904c16cb9ad1b2efe" onclick="grFunc.AbrirPagina('fancybox','rib-eye-con-cebolla-y-mostaza-dijon/gr/vi118203?po=2&amp;ap=1&amp;md5=c57753e20802ffb374be802c4857b98c&amp;ta=0dfdbac11765226904c16cb9ad1b2efe'); return false;" /></div><div class="EAL">�</div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="rib-eye-con-cebolla-y-mostaza-dijon/gr/vi118203?po=2&amp;ap=1&amp;md5=c57753e20802ffb374be802c4857b98c&amp;ta=0dfdbac11765226904c16cb9ad1b2efe" onclick="grFunc.AbrirPagina('fancybox','rib-eye-con-cebolla-y-mostaza-dijon/gr/vi118203?po=2&amp;ap=1&amp;md5=c57753e20802ffb374be802c4857b98c&amp;ta=0dfdbac11765226904c16cb9ad1b2efe'); return false;"><script type="text/javascript"><!--
+													
+                          appFC=URLImagenes+"imagenes/elementorelacionado/9/113/8112456.jpg";
+                          document.write('<img id="1_27459" height="200px" width="300px" border="2"  src=""/>');
+                          
+												
+											
+											//INICIA MODIFICACION 
+											//Se declaran las posiciones iniciales en cada elemento del riel
+											originalCoorddiv_227459 = {x: 0,y: 0}; finalCoorddiv_227459 = {x: 0,y: 0};
+											//Se declara el evento donde el usuario 'pone el dedo' en el div del elemento del riel y se detectan las coordenadas
+											$("#div_227459").bind('touchstart', function(e) {
+												e.preventDefault();
+												originalCoorddiv_227459.x = (e.originalEvent.changedTouches[0].pageX); 
+												originalCoorddiv_227459.y = (e.originalEvent.changedTouches[0].pageY); 
+											}).bind('touchend click', function(e) { // se declara el momento donde el usuario deja de presionar la pantalla y se detectan las coordenadas
+												e.preventDefault();
+												finalCoorddiv_227459.x = (e.originalEvent.changedTouches[0].pageX); 
+												finalCoorddiv_227459.y = (e.originalEvent.changedTouches[0].pageY); 
+												if (e.type=='touchend' && originalCoorddiv_227459.x!=finalCoorddiv_227459.x) //si el usuario realiz un swipe las coordenadas inicial y final sern diferentes por lo que no realiza ninguna accin ms que el propio swipe
+												{
+													return;
+												}
+												else
+												{
+													//al ser las coordenadas inicial y final iguales, se toma como un tap o click por lo que se ejecuta la llamada a la funcion del elemento correspondiente
+													grFunc.AbrirPagina('fancybox','rib-eye-con-cebolla-y-mostaza-dijon/gr/vi118203?po=2&ap=1&md5=c57753e20802ffb374be802c4857b98c&ta=0dfdbac11765226904c16cb9ad1b2efe'); return false;;
+												}
+											});
+											//fin de modificacin
+                      fotocrop = new Array();
+                      fotocrop.url = appFC;
+                      fc27459[1]=fotocrop;
+										--></script></a></div><div class="caption"><div class="ic_caption"><p class="p_5"><script type="text/javascript">
+													
+													if (esHome) {
+														document.write('BUENA MESA');
+													} else {
+														document.write('EST� CARB�N');
+													}
+													
+												</script></p><h1><a class="ligaonclick" href="rib-eye-con-cebolla-y-mostaza-dijon/gr/vi118203?po=2&amp;ap=1&amp;md5=c57753e20802ffb374be802c4857b98c&amp;ta=0dfdbac11765226904c16cb9ad1b2efe" onclick="grFunc.AbrirPagina('fancybox','rib-eye-con-cebolla-y-mostaza-dijon/gr/vi118203?po=2&amp;ap=1&amp;md5=c57753e20802ffb374be802c4857b98c&amp;ta=0dfdbac11765226904c16cb9ad1b2efe'); return false;">Rib eye con salsa de cebolla<br>y mostaza dij�n</a></h1></div></div></div><div id="div_327459" class="mdl n x1 y1 mR_10 ic_container" style="float:left;"><div class="btnArticulo"><a class="ligaonclick" href="es-el-ascenso-mx-experto-en-cambios/ar1715063?po=1" /></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="es-el-ascenso-mx-experto-en-cambios/ar1715063?po=1"><script type="text/javascript"><!--
+													
+                          appFC=URLImagenes+"imagenes/elementorelacionado/9/113/8112425.jpg";
+                          document.write('<img id="2_27459" height="200px" width="300px" border="2"  src=""/>');
+                          
+												
+											
+											//INICIA MODIFICACION 
+											//Se declaran las posiciones iniciales en cada elemento del riel
+											originalCoorddiv_327459 = {x: 0,y: 0}; finalCoorddiv_327459 = {x: 0,y: 0};
+											//Se declara el evento donde el usuario 'pone el dedo' en el div del elemento del riel y se detectan las coordenadas
+											$("#div_327459").bind('touchstart', function(e) {
+												e.preventDefault();
+												originalCoorddiv_327459.x = (e.originalEvent.changedTouches[0].pageX); 
+												originalCoorddiv_327459.y = (e.originalEvent.changedTouches[0].pageY); 
+											}).bind('touchend click', function(e) { // se declara el momento donde el usuario deja de presionar la pantalla y se detectan las coordenadas
+												e.preventDefault();
+												finalCoorddiv_327459.x = (e.originalEvent.changedTouches[0].pageX); 
+												finalCoorddiv_327459.y = (e.originalEvent.changedTouches[0].pageY); 
+												if (e.type=='touchend' && originalCoorddiv_327459.x!=finalCoorddiv_327459.x) //si el usuario realiz un swipe las coordenadas inicial y final sern diferentes por lo que no realiza ninguna accin ms que el propio swipe
+												{
+													return;
+												}
+												else
+												{
+													//al ser las coordenadas inicial y final iguales, se toma como un tap o click por lo que se ejecuta la llamada a la funcion del elemento correspondiente
+													grFunc.AbrirPagina('normal', 'es-el-ascenso-mx-experto-en-cambios/ar1715063?po=1');
+												}
+											});
+											//fin de modificacin
+                      fotocrop = new Array();
+                      fotocrop.url = appFC;
+                      fc27459[2]=fotocrop;
+										--></script></a></div><div class="caption"><div class="ic_caption"><p class="p_5"><script type="text/javascript">
+													
+													if (esHome) {
+														document.write('FUTBOL');
+													} else {
+														document.write('ASCENSO MX');
+													}
+													
+												</script></p><h1><a class="ligaonclick" href="es-el-ascenso-mx-experto-en-cambios/ar1715063?po=1">Es el Ascenso MX experto en cambios</a></h1></div></div></div><div id="div_427459" class="mdl n x1 y1 mR_10 ic_container" style="float:left;"><div class="btnArticulo"><a class="ligaonclick" href="los-trajes-de-spidey/ar1713810" /></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="los-trajes-de-spidey/ar1713810"><script type="text/javascript"><!--
+													
+                          appFC=URLImagenes+"imagenes/elementorelacionado/9/108/8107983.jpg";
+                          document.write('<img id="3_27459" height="200px" width="300px" border="2"  src=""/>');
+                          
+												
+											
+											//INICIA MODIFICACION 
+											//Se declaran las posiciones iniciales en cada elemento del riel
+											originalCoorddiv_427459 = {x: 0,y: 0}; finalCoorddiv_427459 = {x: 0,y: 0};
+											//Se declara el evento donde el usuario 'pone el dedo' en el div del elemento del riel y se detectan las coordenadas
+											$("#div_427459").bind('touchstart', function(e) {
+												e.preventDefault();
+												originalCoorddiv_427459.x = (e.originalEvent.changedTouches[0].pageX); 
+												originalCoorddiv_427459.y = (e.originalEvent.changedTouches[0].pageY); 
+											}).bind('touchend click', function(e) { // se declara el momento donde el usuario deja de presionar la pantalla y se detectan las coordenadas
+												e.preventDefault();
+												finalCoorddiv_427459.x = (e.originalEvent.changedTouches[0].pageX); 
+												finalCoorddiv_427459.y = (e.originalEvent.changedTouches[0].pageY); 
+												if (e.type=='touchend' && originalCoorddiv_427459.x!=finalCoorddiv_427459.x) //si el usuario realiz un swipe las coordenadas inicial y final sern diferentes por lo que no realiza ninguna accin ms que el propio swipe
+												{
+													return;
+												}
+												else
+												{
+													//al ser las coordenadas inicial y final iguales, se toma como un tap o click por lo que se ejecuta la llamada a la funcion del elemento correspondiente
+													grFunc.AbrirPagina('normal', 'los-trajes-de-spidey/ar1713810');
+												}
+											});
+											//fin de modificacin
+                      fotocrop = new Array();
+                      fotocrop.url = appFC;
+                      fc27459[3]=fotocrop;
+										--></script></a></div><div class="caption"><div class="ic_caption"><p class="p_5"><script type="text/javascript">
+													
+													if (esHome) {
+														document.write('GENTE');
+													} else {
+														document.write('CINE');
+													}
+													
+												</script></p><h1><a class="ligaonclick" href="los-trajes-de-spidey/ar1713810">Los trajes de Spidey</a></h1></div></div></div><div id="div_527459" class="mdl n x1 y1 mR_10 ic_container" style="float:left;"><div class="btnArticulo"><a class="ligaonclick" href="suburban-un-chevrolet-con-84-anos/ar1714122?v=4" /></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="suburban-un-chevrolet-con-84-anos/ar1714122?v=4"><script type="text/javascript"><!--
+													
+                          appFC=URLImagenes+"imagenes/elementorelacionado/9/110/8109229.jpg";
+                          document.write('<img id="4_27459" height="200px" width="300px" border="2"  src=""/>');
+                          
+												
+											
+											//INICIA MODIFICACION 
+											//Se declaran las posiciones iniciales en cada elemento del riel
+											originalCoorddiv_527459 = {x: 0,y: 0}; finalCoorddiv_527459 = {x: 0,y: 0};
+											//Se declara el evento donde el usuario 'pone el dedo' en el div del elemento del riel y se detectan las coordenadas
+											$("#div_527459").bind('touchstart', function(e) {
+												e.preventDefault();
+												originalCoorddiv_527459.x = (e.originalEvent.changedTouches[0].pageX); 
+												originalCoorddiv_527459.y = (e.originalEvent.changedTouches[0].pageY); 
+											}).bind('touchend click', function(e) { // se declara el momento donde el usuario deja de presionar la pantalla y se detectan las coordenadas
+												e.preventDefault();
+												finalCoorddiv_527459.x = (e.originalEvent.changedTouches[0].pageX); 
+												finalCoorddiv_527459.y = (e.originalEvent.changedTouches[0].pageY); 
+												if (e.type=='touchend' && originalCoorddiv_527459.x!=finalCoorddiv_527459.x) //si el usuario realiz un swipe las coordenadas inicial y final sern diferentes por lo que no realiza ninguna accin ms que el propio swipe
+												{
+													return;
+												}
+												else
+												{
+													//al ser las coordenadas inicial y final iguales, se toma como un tap o click por lo que se ejecuta la llamada a la funcion del elemento correspondiente
+													grFunc.AbrirPagina('normal', 'suburban-un-chevrolet-con-84-anos/ar1714122?v=4');
+												}
+											});
+											//fin de modificacin
+                      fotocrop = new Array();
+                      fotocrop.url = appFC;
+                      fc27459[4]=fotocrop;
+										--></script></a></div><div class="caption"><div class="ic_caption"><p class="p_5"><script type="text/javascript">
+													
+													if (esHome) {
+														document.write('AUTOMOTRIZ');
+													} else {
+														document.write('CL�SICOS');
+													}
+													
+												</script></p><h1><a class="ligaonclick" href="suburban-un-chevrolet-con-84-anos/ar1714122?v=4">Suburban: un Chevrolet con 84 a�os</a></h1></div></div></div><div id="div_627459" class="mdl n x1 y1 mR_10 ic_container" style="float:left;"><div class="btnArticulo"><a class="ligaonclick" href="a-probaditas/ar1713266?v=2" onclick="grFunc.AbrirPagina('normal','a-probaditas/ar1713266?v=2'); return false;" /></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="a-probaditas/ar1713266?v=2" onclick="grFunc.AbrirPagina('normal','a-probaditas/ar1713266?v=2'); return false;"><script type="text/javascript"><!--
+													
+                          appFC=URLImagenes+"imagenes/elementorelacionado/9/109/8108756.jpg";
+                          document.write('<img id="5_27459" height="200px" width="300px" border="2"  src=""/>');
+                          
+												
+											
+											//INICIA MODIFICACION 
+											//Se declaran las posiciones iniciales en cada elemento del riel
+											originalCoorddiv_627459 = {x: 0,y: 0}; finalCoorddiv_627459 = {x: 0,y: 0};
+											//Se declara el evento donde el usuario 'pone el dedo' en el div del elemento del riel y se detectan las coordenadas
+											$("#div_627459").bind('touchstart', function(e) {
+												e.preventDefault();
+												originalCoorddiv_627459.x = (e.originalEvent.changedTouches[0].pageX); 
+												originalCoorddiv_627459.y = (e.originalEvent.changedTouches[0].pageY); 
+											}).bind('touchend click', function(e) { // se declara el momento donde el usuario deja de presionar la pantalla y se detectan las coordenadas
+												e.preventDefault();
+												finalCoorddiv_627459.x = (e.originalEvent.changedTouches[0].pageX); 
+												finalCoorddiv_627459.y = (e.originalEvent.changedTouches[0].pageY); 
+												if (e.type=='touchend' && originalCoorddiv_627459.x!=finalCoorddiv_627459.x) //si el usuario realiz un swipe las coordenadas inicial y final sern diferentes por lo que no realiza ninguna accin ms que el propio swipe
+												{
+													return;
+												}
+												else
+												{
+													//al ser las coordenadas inicial y final iguales, se toma como un tap o click por lo que se ejecuta la llamada a la funcion del elemento correspondiente
+													grFunc.AbrirPagina('normal','a-probaditas/ar1713266?v=2'); return false;;
+												}
+											});
+											//fin de modificacin
+                      fotocrop = new Array();
+                      fotocrop.url = appFC;
+                      fc27459[5]=fotocrop;
+										--></script></a></div><div class="caption"><div class="ic_caption"><p class="p_5"><script type="text/javascript">
+													
+													if (esHome) {
+														document.write('PRIMERA FILA');
+													} else {
+														document.write('PRIMERA FILA');
+													}
+													
+												</script></p><h1><a class="ligaonclick" href="a-probaditas/ar1713266?v=2" onclick="grFunc.AbrirPagina('normal','a-probaditas/ar1713266?v=2'); return false;">Para disfrutar a probaditas</a></h1></div></div></div><div id="div_727459" class="mdl n x1 y1 mR_10 ic_container" style="float:left;"><div class="btnArticulo"><a class="ligaonclick" href="su-otro-nombre/ar1713943?po=1" /></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="su-otro-nombre/ar1713943?po=1"><script type="text/javascript"><!--
+													
+                          appFC=URLImagenes+"imagenes/elementorelacionado/9/109/8108170.jpg";
+                          document.write('<img id="6_27459" height="200px" width="300px" border="2"  src=""/>');
+                          
+												
+											
+											//INICIA MODIFICACION 
+											//Se declaran las posiciones iniciales en cada elemento del riel
+											originalCoorddiv_727459 = {x: 0,y: 0}; finalCoorddiv_727459 = {x: 0,y: 0};
+											//Se declara el evento donde el usuario 'pone el dedo' en el div del elemento del riel y se detectan las coordenadas
+											$("#div_727459").bind('touchstart', function(e) {
+												e.preventDefault();
+												originalCoorddiv_727459.x = (e.originalEvent.changedTouches[0].pageX); 
+												originalCoorddiv_727459.y = (e.originalEvent.changedTouches[0].pageY); 
+											}).bind('touchend click', function(e) { // se declara el momento donde el usuario deja de presionar la pantalla y se detectan las coordenadas
+												e.preventDefault();
+												finalCoorddiv_727459.x = (e.originalEvent.changedTouches[0].pageX); 
+												finalCoorddiv_727459.y = (e.originalEvent.changedTouches[0].pageY); 
+												if (e.type=='touchend' && originalCoorddiv_727459.x!=finalCoorddiv_727459.x) //si el usuario realiz un swipe las coordenadas inicial y final sern diferentes por lo que no realiza ninguna accin ms que el propio swipe
+												{
+													return;
+												}
+												else
+												{
+													//al ser las coordenadas inicial y final iguales, se toma como un tap o click por lo que se ejecuta la llamada a la funcion del elemento correspondiente
+													grFunc.AbrirPagina('normal', 'su-otro-nombre/ar1713943?po=1');
+												}
+											});
+											//fin de modificacin
+                      fotocrop = new Array();
+                      fotocrop.url = appFC;
+                      fc27459[6]=fotocrop;
+										--></script></a></div><div class="caption"><div class="ic_caption"><p class="p_5"><script type="text/javascript">
+													
+													if (esHome) {
+														document.write('M�S DEPORTES');
+													} else {
+														document.write('BOXEO');
+													}
+													
+												</script></p><h1><a class="ligaonclick" href="su-otro-nombre/ar1713943?po=1">�Reconoces los apodos<br>de los boxeadores?</a></h1></div></div></div><div id="div_827459" class="mdl n x1 y1 mR_10 ic_container" style="float:left;"><div class="btnArticulo"><a class="ligaonclick" href="supera-extincion-de-plantas-la-animal/ar1710540?v=5" /></div><div class="overlay" style="display:none;">�</div><div class="foto"><a class="ligaonclick" href="supera-extincion-de-plantas-la-animal/ar1710540?v=5"><script type="text/javascript"><!--
+													
+                          appFC=URLImagenes+"imagenes/elementorelacionado/9/98/8097649.jpg";
+                          document.write('<img id="7_27459" height="200px" width="300px" border="2"  src=""/>');
+                          
+												
+											
+											//INICIA MODIFICACION 
+											//Se declaran las posiciones iniciales en cada elemento del riel
+											originalCoorddiv_827459 = {x: 0,y: 0}; finalCoorddiv_827459 = {x: 0,y: 0};
+											//Se declara el evento donde el usuario 'pone el dedo' en el div del elemento del riel y se detectan las coordenadas
+											$("#div_827459").bind('touchstart', function(e) {
+												e.preventDefault();
+												originalCoorddiv_827459.x = (e.originalEvent.changedTouches[0].pageX); 
+												originalCoorddiv_827459.y = (e.originalEvent.changedTouches[0].pageY); 
+											}).bind('touchend click', function(e) { // se declara el momento donde el usuario deja de presionar la pantalla y se detectan las coordenadas
+												e.preventDefault();
+												finalCoorddiv_827459.x = (e.originalEvent.changedTouches[0].pageX); 
+												finalCoorddiv_827459.y = (e.originalEvent.changedTouches[0].pageY); 
+												if (e.type=='touchend' && originalCoorddiv_827459.x!=finalCoorddiv_827459.x) //si el usuario realiz un swipe las coordenadas inicial y final sern diferentes por lo que no realiza ninguna accin ms que el propio swipe
+												{
+													return;
+												}
+												else
+												{
+													//al ser las coordenadas inicial y final iguales, se toma como un tap o click por lo que se ejecuta la llamada a la funcion del elemento correspondiente
+													grFunc.AbrirPagina('normal', 'supera-extincion-de-plantas-la-animal/ar1710540?v=5');
+												}
+											});
+											//fin de modificacin
+                      fotocrop = new Array();
+                      fotocrop.url = appFC;
+                      fc27459[7]=fotocrop;
+										--></script></a></div><div class="caption"><div class="ic_caption"><p class="p_5"><script type="text/javascript">
+													
+													if (esHome) {
+														document.write('VERDE');
+													} else {
+														document.write('FLORA Y FAUNA');
+													}
+													
+												</script></p><h1><a class="ligaonclick" href="supera-extincion-de-plantas-la-animal/ar1710540?v=5">Supera extinci�n de plantas la animal</a></h1></div></div></div><!----></div><script language="JavaScript"><!--
+				document.write('</div>');
+				var load27459 = false;
+				$(window).on('scroll load', function () {
+					var position = $("#riel27459").offset();
+					var scrollBottom = $(window).scrollTop() + $(window).height();
+					if(position.top<(scrollBottom+200) && !load27459)
+					{
+						load27459 = true;
+						for (i=0; i<fc27459.length; i++)
+						{
+							$("#"+(i)+"_"+"27459").attr('src',fc27459[i].url);
+						}
+					}
+				});
+				if( navigator.userAgent.match(/Android/i)|| navigator.userAgent.match(/webOS/i)|| navigator.userAgent.match(/iPhone/i)|| navigator.userAgent.match(/iPad/i)|| navigator.userAgent.match(/iPod/i)|| navigator.userAgent.match(/BlackBerry/i)|| navigator.userAgent.match(/Windows Phone/i))
+				{ 
+					$("#riel_27459").smoothDivScroll({touchScrolling: true,manualContinuousScrolling: true,autoScrollingStep: 5,hotSpotScrolling:false,mousewheelScrolling:''});
+				}
+			--></script></div></div><div class="clearfix"><!----></div><div id="zonaopinion"><div style='height:530px; width:960px; position:relative; margin-left:0px; margin-top:0px; margin-right:0px;margin-bottom:30px;'><div id="divaticos3x2" class="mdl x3 y2"><!----><script language="JavaScript">
+
+	var loadaticoshome3x2 = false;
+	$(window).scroll(function () {
+	var position = $("#divaticos3x2").offset();
+
+	var scrollBottom = $(window).scrollTop() + $(window).height();
+	if(position.top < (scrollBottom+200) && !loadaticoshome3x2)
+		{
+		loadaticoshome3x2 = true;
+
+		document.getElementById("divaticos3x2").innerHTML='<iframe id=\"aticoshome3x2\" name=\"aticoshome3x2\" onload=\"grFunc.AjustarIframeJQ(\'aticoshome3x2\',true);\" frameborder=\"0\" scrolling=\"no\"  src=\"' + grFunc.NuestroHost + 'cntext/opinion/includes/aticosgrande.htm\">&nbsp;</iframe>';
+	}
+	});
+</script>
+
+</div></div></div><div class="clearfix"><!----></div><div id="zonaavisos"><div style='height:250px; width:960px; position:relative; margin-left:0px; margin-top:0px; margin-right:0px;margin-bottom:30px;'><div class="mdl x3 y1"><!----><script language="JavaScript">
+	var loadavisosCOM6H = false;
+	$(window).scroll(function () {
+		var position = $("#avisosCOM6H").offset();
+		var currentURL = document.URL;
+		var offline_baseAddress = document.domain;
+		var offline_baseAddress = offline_baseAddress.toLowerCase( );
+		var scrollBottom = $(window).scrollTop() + $(window).height();
+		if(position.top < (scrollBottom+200) && !loadavisosCOM6H)
+		{
+			loadavisosCOM6H = true;
+			if (offline_baseAddress.indexOf('elnorte') > -1 || offline_baseAddress.indexOf('reforma') > -1 || offline_baseAddress.indexOf('mural') > -1)
+			{
+				if(currentURL.indexOf('elnorte') > -1)
+				{
+					$("#avisosCOM6H").attr('src',location.protocol+'//www.avisosdeocasion.com/gcavisoscom/avisos-html-portada-N.html');
+				}
+				if(currentURL.indexOf('mural') > -1)
+				{
+					$("#avisosCOM6H").attr('src',location.protocol+'//www.avisosdeocasion.com/mural/gcavisoscom/avisos-html-portada-M.html');
+				}
+				if(currentURL.indexOf('reforma') > -1)
+				{
+					$("#avisosCOM6H").attr('src',location.protocol+'//www.avisosdeocasion.com/reforma/gcavisoscom/avisos-html-portada-R.html');
+				}
+			}
+			else
+			{
+				$("#avisosCOM6H").attr('src','http://operacionesinternet/stage/elnorte/libre/imgdiseno/vistas/215.jpg');
+			}
+		}
+	});
+</script>
+<iframe id="avisosCOM6H" frameborder="0" marginWidth="0" marginHeight="0" height="250px" scrolling="no" width="960px" src=""></iframe></div></div></div><div class="clearfix"><!----></div></div><div id="footer"><script type="text/javascript"><!--
+							drawFooter(grFunc.NuestroHost, grFunc.IdPlaza);
+						--></script></div><div id="wrapperbanner_pubbottom" style="display:none;"><div id="bannerbot_pubbottom"><div id="closebtn_pubbottom"><img src="libre/imgdiseno/publicidad/cerrarpubbottom.png" border="0" onClick="grFunc.CerrarBannerEspecialBottom();" /></div><script type="text/javascript"><!--
+								grAnuncio.DisplayAds('x10', false);
+							--></script></div></div><div id="tickernrm" style="display:none"><div id="ticker_notificador"><div class="header_notificador"><p class="plecatitulo"> </p></div><div class="notificacion_ticker"><button class="tickerup"><img src="libre/ticker/img/bt_up.jpg" alt="cont_reforma" width="22" height="24" style="cursor:pointer" /></button><button class="tickerdown"><img src="libre/ticker/img/bt_dwn.jpg" alt="cont_reforma" width="22" height="24" style="cursor:pointer" /></button><p class="plecaresumen"> </p></div><div class="cerrarticker"><img src="libre/ticker/img/bt_close.jpg" alt="bt_close" width="40" height="50" style="cursor:pointer" /></div></div><div id="id_notifica_ticker"><p class="plecatitulo"> </p><img src="libre/ticker/img/bt_left.jpg" style="margin-left:20px;cursor:pointer" alt="cont_reforma" width="50" height="50" /><div id="noti_num_ticker"> </div></div></div><script type="text/javascript" src="https://stats.gruporeforma.com/clickGrupoReforma.js"><!----></script><script type="text/javascript"><!--
+						clickHeatSite = 'site'; //No mover
+						clickHeatGroup = 'grupo'; //No mover
+						clickHeatServer = 'https://stats.gruporeforma.com/hitClick.tif';
+						initClickHeat();
+						var _estV3= [];
+						_estV3.push(['grcidapp','2']);
+						_estV3.push(['grcversionapp','1.0']);
+						_estV3.push(['grcidmodulo', '35']);
+						_estV3.push(['grcidtcon','2']);
+						_estV3.push(['grcidfp', 'CMS_19_672']);
+						_estV3.push(['grcfechapub','2019-07-04 22:35:31']);
+						_estV3.push(['infostatsV3']);
+						(function() {
+							var grV3 = document.createElement('script');
+							grV3.type = 'text/javascript';
+							grV3.async = true;
+							grV3.src = 'https://stats.gruporeforma.com/grV3.js';
+							var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(grV3, s);
+						})();
+						function abrirVideoFancyBox(urlVideoFancyBox){
+							$.fancybox({
+								type : 'iframe',
+								href: urlVideoFancyBox,
+								openEffect : 'none',
+								width : 960,
+								height: 540,
+								closeEffect : 'none',
+								nextEffect : 'none',
+								prevEffect : 'none',
+								padding : 0,
+								margin : [20, 60, 20, 60], // Increase left/right margin
+								helpers: { overlay: { locked: false } }
+							});
+						}
+						var ticker=new Ticker();
+						$(document).ready(function() {
+							if (typeof(secciones)!='undefined') menuHeader(secciones, 82, 672, '', grFunc.NuestroHost, null, true);
+							grFunc.CargaAnuncioEspecialBottom();
+							grFunc.CargaAnuncioEspecialExpandible();
+							$("img.lazy").lazyload({threshold:280, skip_invisible:false});
+							$(".caption").capslide({caption_color:'#fff', caption_bgcolor:'none', overlay_bgcolor:'none', border:'', showcaption:true});
+							$(".riel").smoothDivScroll({touchScrolling:true, mousewheelScrolling:'', visibleHotSpotBackgrounds:'always', manualContinuousScrolling:true});
+							if ("ontouchstart" in document.documentElement){ $('html').addClass('touch'); }
+							if(document.getElementById('wrapperbanner_pubbottom') && document.getElementById('tickernrm')) {
+								if($('#wrapperbanner_pubbottom').is(':visible') && $('#tickernrm').is(':visible')) {
+									$('#wrapperbanner_pubbottom').css("bottom","53px");
+								}
+							}
+							ticker.GetTicker();
+						});
+					--></script><script type="application/ld+json">
+						
+						{"@context": "http://schema.org",
+						"@type": "Organization",
+						"url": "https://www.reforma.com",
+						"logo": "https://www.reforma.com/libre/imgdiseno/logo_redes.png",
+						"sameAs": [
+							"https://www.facebook.com/reforma/",
+							"https://twitter.com/reforma/",
+							"https://www.instagram.com/reforma/",
+							"https://www.youtube.com/user/gruporeforma"
+						],
+						"address": {
+							"@type": "PostalAddress",
+							"addressLocality": "Cd. de M�xico, M�xico",
+							"postalCode": "03310",
+							"streetAddress": "Av. M�xico Coyoac�n 40, Col. Santa Cruz Atoyac Del. Benito Ju�rez"
+						},
+						"contactPoint": [{
+								"@type": "ContactPoint",
+								"name": "Redacci�n de Reforma",
+								"telephone": "(+52) 55 5628 7100",
+								"contactType": "customer service"
+							},{
+								"@type": "ContactPoint",
+								"name": "Centro de Ayuda - Cd. de M�xico",
+								"telephone": "(+52) 55 5628 7777",
+								"contactType": "technical support"
+							},{
+								"@type": "ContactPoint",
+								"name": "Centro de Ayuda - Interior del pa�s (sin costo)",
+								"telephone": "(+52) 800 733 6762",
+								"contactType": "technical support"
+							},{
+								"@type": "ContactPoint",
+								"name": "Centro de Ayuda - E.U. y Canad� (sin costo)",
+								"telephone": "(+1) 866 733 6872",
+								"contactType": "technical support",
+								"contactOption": "TollFree",
+								"areaServed": ["US", "CA"]
+							},{
+								"@type": "ContactPoint",
+								"name": "Informes y Ventas",
+								"telephone": "(+52) 55 5628 7878",
+								"contactType": "Sales"
+							},{
+								"@type": "ContactPoint",
+								"name": "Clasificados y Suscripciones",
+								"telephone": "(+52) 55 5140 5140",
+								"contactType": "Sales"
+							},{
+								"@type": "ContactPoint",
+								"name": "Clasificados y Suscripciones",
+								"telephone": "(+52) 55 5628 7575",
+								"contactType": "Sales"
+						}]}
+						
+					</script></body></html>
