@@ -3,6 +3,21 @@
 var db = require("../models");
 
 module.exports = function(app) {
+
+    app.get("/articles", function(req, res) {
+        db.Article.find({})
+		.then(function (dbArticle) {
+			// If we were able to successfully find Articles, send them back to the client
+            res.json(dbArticle);
+		})
+		.catch(function (err) {
+			// If an error occurred, send it to the client
+			res.json(err);
+		});
+        //res.render("index");
+    });
+  
+/*
   // Get all examples
   app.get("/api/examples", function(req, res) {
     db.Example.findAll({}).then(function(dbExamples) {
@@ -109,4 +124,5 @@ module.exports = function(app) {
       res.json(dbResult);
     });
   });
+*/
 };

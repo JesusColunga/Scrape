@@ -21,7 +21,35 @@
 </div>
 <!-- ============================================================== -->
 
-home = index.handlebars
+<div class="topImage">
+    <img src="/img/Whats News Today.jpg" alt="Whats News Today" id="imgBB">
+</div>
+
+
+
+<!-- - ->
+<div class="card">
+  <h5 class="card-header">Featured</h5>
+  <div class="card-body">
+    <h5 class="card-title">Special title treatment</h5>
+    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+<!-- - ->
+<div id="articles">
+    {{#each articles}}
+        <p> {{title}} </p>
+    {{/each}}
+</div>
+
+<!-- -->
+<div id="articles"> </div>
+<!-- -->
+<div class="topBtn">
+    <button type="button" class="btn btn-outline-danger badge-pill" id="topBtn"> Top </button>
+</div>
+<!-- -->
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="/js/index.js"></script>

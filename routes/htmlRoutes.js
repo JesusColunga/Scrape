@@ -18,9 +18,11 @@ function writeLog (strg) {
 
 module.exports = function(app) {
   // Load index page
+  
   app.get("/", function(req, res) {
       res.render("index");
   });
+  
 
   app.get("/scrape", function(req, res) {
     axios.get("https://www.reforma.com/").then(function (response) {

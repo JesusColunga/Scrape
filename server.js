@@ -26,7 +26,7 @@ app.engine(
 app.set("view engine", "handlebars");
 
 // Routes
-//require("./routes/apiRoutes")(app);
+require("./routes/apiRoutes")(app);
 require("./routes/htmlRoutes")(app);
 
 //var syncOptions = { force: false };
@@ -43,7 +43,7 @@ require("./routes/htmlRoutes")(app);
 // If deployed, use the deployed database. Otherwise use the local mongoHeadlines database
 var MONGODB_URI = process.env.MONGODB_URI || "mongodb://localhost/scraper";
 
-mongoose.connect(MONGODB_URI)
+mongoose.connect(MONGODB_URI, { useNewUrlParser: true })
 //mongoose
 //   .connect("mongodb://localhost/scraper", { useNewUrlParser: true })
    .then(function() {

@@ -1,6 +1,7 @@
 // public/js/index.js
 
 // Get references to page elements
+/*
 var $exampleText = $("#example-text");
 var $exampleDescription = $("#example-description");
 var $submitBtn = $("#submit");
@@ -99,3 +100,72 @@ var handleDeleteBtnClick = function() {
 // Add event listeners to the submit and delete buttons
 $submitBtn.on("click", handleFormSubmit);
 $exampleList.on("click", ".delete", handleDeleteBtnClick);
+*/
+/*
+$.getJSON("/articles", function(data) {
+    // For each one
+    for (var i = 0; i < data.length; i++) {
+      // Display the apropos information on the page
+      $("#articles").append("<p data-id='" + data[i]._id + "'>" + data[i].title + "<br />" + data[i].link + "</p>");
+    }
+});
+*/
+/*
+$.getJSON("/articles", function(data) {
+    res.json(data);
+});
+*/
+
+function createCard (rec){
+    const baseUrl = "https://www.reforma.com/";
+    var card   = $("<div>");
+    var header = $("<h5>");
+    var body   = $("<div>");
+    var sumry  = $("<p>");
+    var ahref  = $("<p>");
+    header.addClass("card-header");
+    header.html(
+        "<a href=" +
+        baseUrl    +
+        rec.link   +
+        " class='text-success' target='_blank'>" +
+        rec.title  +
+        "</a>"
+    );
+    body.addClass("card-body");
+    body.html('<p class="card-text">' +
+              rec.summary );
+    card.addClass ("card my-4 border-info");
+    card.append(header);
+    card.append(body);
+    return card;          
+};
+
+$.getJSON("/articles", function(data) {
+    //console.log("Data de articles:", data);
+    
+    for (var i = 0; i < data.length; i++) {
+      //$("#articles").append("<p data-id='" + data[i]._id + "'>" + data[i].title + "<br />" + data[i].link + "</p>");
+      $("#articles").append( createCard(data[i]) );
+    }
+});
+
+$("#topBtn").on("click", function(){
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+});
+
+/* -----
+<div id="articles">
+    {{#each articles}}
+        <div class="card">                                                card
+            <h5 class="card-header"> {{title}} </h5>                      header
+            <div class="card-body">                                       body
+                <p class="card-text"> {{summary}} </p>
+                <a href="#" class="btn btn-primary">Save Article</a>
+            </div>
+        </div>
+    {{/each}}
+</div>
+
+   ----- */
