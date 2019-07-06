@@ -136,12 +136,16 @@ function createCard (rec){
     body.html('<p class="card-text">' +
               rec.summary +
               "</p>" +
-              "<button class='badge badge-pill badge-warning' " +
-              "id='saveArtBtn'" +
+              "<a href='/saveArticle/" + 
+              rec._id + "' " +
+              "class='badge badge-pill badge-warning' " +
               "data-id='" + 
               rec._id +
-              "'> Save Article </button>"
+              "'>Save Article</a>" 
               );
+/* Probar esto y hacerle su ruta (get?)
+<a href="/saveArticle/rec._id" class="btn btn-primary">Save Article</a>
+*/              
     card.addClass ("card my-4 border-info");
     card.append(header);
     card.append(body);

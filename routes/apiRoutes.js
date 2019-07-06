@@ -7,15 +7,25 @@ module.exports = function(app) {
     app.get("/articles", function(req, res) {
         db.Article.find({})
 		.then(function (dbArticle) {
-			// If we were able to successfully find Articles, send them back to the client
             res.json(dbArticle);
 		})
 		.catch(function (err) {
-			// If an error occurred, send it to the client
 			res.json(err);
 		});
-        //res.render("index");
     });
+
+    //-----------------------------------------
+    app.get("/sarticles", function(req, res) {
+        db.Article.find({saved: true})
+		.then(function (dbArticle) {
+            res.json(dbArticle);
+		})
+		.catch(function (err) {
+			res.json(err);
+		});
+    });
+
+
   
 /*
   // Get all examples

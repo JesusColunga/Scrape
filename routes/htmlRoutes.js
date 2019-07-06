@@ -58,11 +58,6 @@ module.exports = function(app) {
   });
 
   //-----------------------------------------
-  app.get("/sarticles", function(req, res) {
-    res.render("sarticles");
-  });
-
-  //-----------------------------------------
   app.get("/clear", function(req, res) {
       db.Article.remove({}, function(err){
           if (err) {
@@ -71,6 +66,33 @@ module.exports = function(app) {
               res.render("index");
           };
       });
+  });
+
+  //-----------------------------------------
+  app.get("/saveArticle/:id", function(req, res) {
+	db.Article.updateOne({ _id: req.params.id }, {$set: {saved:true} })
+		.then(function (dbArticle) {
+			res.render("savedArts");
+		})
+		.catch(function (err) {
+			console.log(err);
+		});
+  });
+
+  //-----------------------------------------
+  app.get("/savedArts", function(req, res) {
+    res.render("savedArts");
+  });
+
+  //-----------------------------------------
+  app.get("/unsaveArt/:id", function(req, res) {
+	db.Article.updateOne({ _id: req.params.id }, {$set: {saved:false} })
+		.then(function (dbArticle) {
+			res.render("savedArts");
+		})
+		.catch(function (err) {
+			console.log(err);
+		});
   });
 
   //-----------------------------------------

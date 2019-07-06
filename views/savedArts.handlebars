@@ -1,4 +1,4 @@
-<!-- views/sarticles.handlebars
+<!-- views/savedArts.handlebars
      Saved Articles             -->
 
 <div class="card w-100">          <!--Nav bar  -->
@@ -11,7 +11,7 @@
                 <a class="nav-link" href="/scrape">Scrape new Articles</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link active" href="/sarticles">Saved Articles</a>
+                <a class="nav-link active" href="/savedArts">Saved Articles</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="/clear">Clear Articles</a>
@@ -21,8 +21,17 @@
 </div>
 <!-- ============================================================== -->
 
-Saved Articles
+<h1 id="topBtn">Saved Articles</h1>
+
+<!-- -->
+<div id="sarticles"> </div>
+<!-- -->
+<div class="topBtn">
+    <button type="button" class="btn btn-outline-danger badge-pill" id="topBtn"> Top </button>
+</div>
+<!-- -->
+
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
-<script src="/js/sarticles.js"></script>
+<script src="/js/savedArts.js"></script>
