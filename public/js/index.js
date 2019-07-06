@@ -115,7 +115,7 @@ $.getJSON("/articles", function(data) {
     res.json(data);
 });
 */
-
+/* <button class="badge badge-pill badge-warning" id="saveArtBtn"> Save Article </button> */
 function createCard (rec){
     const baseUrl = "https://www.reforma.com/";
     var card   = $("<div>");
@@ -134,7 +134,14 @@ function createCard (rec){
     );
     body.addClass("card-body");
     body.html('<p class="card-text">' +
-              rec.summary );
+              rec.summary +
+              "</p>" +
+              "<button class='badge badge-pill badge-warning' " +
+              "id='saveArtBtn'" +
+              "data-id='" + 
+              rec._id +
+              "'> Save Article </button>"
+              );
     card.addClass ("card my-4 border-info");
     card.append(header);
     card.append(body);
@@ -155,7 +162,12 @@ $("#topBtn").on("click", function(){
     document.documentElement.scrollTop = 0;
 });
 
-/* -----
+$(".card").on("click", ".badge-warning", function(){
+    console.log("clic en boton save article");
+});
+
+
+/* -----      
 <div id="articles">
     {{#each articles}}
         <div class="card">                                                card
@@ -163,6 +175,7 @@ $("#topBtn").on("click", function(){
             <div class="card-body">                                       body
                 <p class="card-text"> {{summary}} </p>
                 <a href="#" class="btn btn-primary">Save Article</a>
+                <button class="badge badge-pill badge-warning" id="saveArtBtn"> Save Article </button>
             </div>
         </div>
     {{/each}}
