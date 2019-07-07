@@ -25,7 +25,13 @@ function createSCard (rec){
               "class='badge badge-pill badge-danger' " +
               "data-id='" + 
               rec._id +
-              "'>Delete from saved</a>" 
+              "'>Delete from saved</a> " +
+              "<button " +
+              "class='badge badge-pill badge-success' " +
+              "data-id='" + 
+              rec._id +
+              "' id='notesBtn'>Article Notes</button>"
+
               );
     card.addClass ("card my-4 border-info");
     card.append(header);
@@ -42,4 +48,8 @@ $.getJSON("/sarticles", function(data) {
 $("#topBtn").on("click", function(){
     document.body.scrollTop = 0;
     document.documentElement.scrollTop = 0;
+});
+
+$("#sarticles").on("click", "#notesBtn", function(){
+    console.log("notesBtn", $(this).attr("data-id"));
 });
