@@ -96,6 +96,22 @@ module.exports = function(app) {
   });
 
   //-----------------------------------------
+  app.post("/addNote/:id", function(req, res) {
+    db.Note.create(req.body)
+    .then(function (dbNote) {
+        console.log(dbNote);
+        return db.Article
+        .findOneAndUpdate({ _id: req.params.id }, {$push: {notes: dbNote._id} } )
+    })
+    .then(function(dbArticle) {
+        res.render("savedArts");
+    })
+    .catch(function (err2) {
+        console.log(err2);
+    });
+  });
+
+  //-----------------------------------------
   // Render 404 page for any unmatched routes
   app.get("*", function(req, res) {
     res.render("404");
