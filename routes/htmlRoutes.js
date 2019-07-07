@@ -63,7 +63,13 @@ module.exports = function(app) {
           if (err) {
               console.log(err);
           } else {
-              res.render("index");
+              db.Note.remove({}, function(err){
+                if (err) {
+                    console.log(err);
+                } else {
+                    res.render("index");
+                };
+              });
           };
       });
   });
@@ -108,6 +114,18 @@ module.exports = function(app) {
     })
     .catch(function (err2) {
         console.log(err2);
+    });
+  });
+
+  //-----------------------------------------
+  app.get("/artNotes/:id", function(req, res) {
+    db.Article.find({_id: req.params.id})
+    .populate("notes")
+    .then(function (dbArticle) {
+        res.render("artNotes", dbArticle[0]);
+    })
+    .catch(function (err) {
+        console.log(err);
     });
   });
 
